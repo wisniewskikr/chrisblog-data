@@ -1,5 +1,20 @@
 [
-  {"id":"books","plLabel":"Książki","enLabel":"Books"},
-  {"id":"movies","plLabel":"Filmy","enLabel":"Movies"},
-  {"id":"travel","plLabel":"Podróże","enLabel":"Travel"}
+  {
+    "id": "books",
+    "plLabel": "Książki",
+    "enLabel": "Books",
+    "bannerUrl": "banners/books.jpg"
+  },
+  {
+    "id": "movies",
+    "plLabel": "Filmy",
+    "enLabel": "Movies",
+    "bannerUrl": "banners/movies.jpg"
+  },
+  {
+    "id": "travel",
+    "plLabel": "Podróże",
+    "enLabel": "Travel",
+    "bannerUrl": "banners/travels.jpg"
+  }
 ]
