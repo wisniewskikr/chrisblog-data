@@ -1,1 +1,1 @@
-[{"email":"admin@example.com","password":"$2a$10$GyEPRMRu0KSmke2.90skM.mJK1f8eZHKiOC93fPbksBhGsciRb032","role":"ADMIN","authorName":"Admin"}]
+[{"email":"admin@example.com","password":"$2a$10$GyEPRMRu0KSmke2.90skM.mJK1f8eZHKiOC93fPbksBhGsciRb032","role":"ADMIN","authorName":"Admin"},{"email":"user@example.com","password":"$2a$10$pGuB.RluJAKS1aly1DCuUuykyZGFivpXF1CVDcHxtkVcCcqqKs3JK","role":"USER","authorName":"User"}]
