@@ -1,1 +1,1 @@
-[{"email":"test@example.com","password":"$2a$10$lU.yn6DDrvpt/lUvyWVMxOZRrYeW7Bd52ZVlEwXISW6QcGab7Ektu","role":"ADMIN","authorName":"Test","apiToken":null}]
+[{"email":"admin@example.com","password":"$2a$10$9RXYim5E.zN58Jbyv8KuOebtpHLht6MFFhoaDx/hO68aUehflWVqa","role":"ADMIN","authorName":"Admin","apiToken":null}]
