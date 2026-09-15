@@ -2,13 +2,11 @@
   {
     "id": "books",
     "plLabel": "Książki",
-    "enLabel": "Books",
-    "bannerUrl": "banners/books.jpg"
+    "enLabel": "Books"
   },
   {
     "id": "travel",
     "plLabel": "Podróże",
-    "enLabel": "Travels",
-    "bannerUrl": "banners/travels.jpg"
+    "enLabel": "Travels"
   }
 ]
