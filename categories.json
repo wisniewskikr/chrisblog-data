@@ -1,1 +1,14 @@
-[{"id":"books","plLabel":"Książki","enLabel":"Books"},{"id":"travel","plLabel":"Podróże","enLabel":"Travels"}]
+[
+  {
+    "id": "books",
+    "plLabel": "Książki",
+    "enLabel": "Books",
+    "bannerUrl": "banners/books.jpg"
+  },
+  {
+    "id": "travel",
+    "plLabel": "Podróże",
+    "enLabel": "Travels",
+    "bannerUrl": "banners/travels.jpg"
+  }
+]
