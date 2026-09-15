@@ -6,7 +6,7 @@ category: movies
 tags:
 - Philosophy
 - Psychology
-status: DRAFT
+status: PUBLISHED
 imageUrl: articles/images/movie2/1789496218192-0-image-02.png
 ---
 Movie 2 description
