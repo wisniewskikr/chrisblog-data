@@ -7,4 +7,4 @@ tags: []
 status: DRAFT
 imageUrl: articles/images/book4/1789580550333-0-image-01.png
 ---
-Książka 4 opise
+Książka 4 opis
