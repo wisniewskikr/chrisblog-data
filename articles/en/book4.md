@@ -1,10 +1,10 @@
 ---
-title: Book 4
+title: Book4
 author: Chris
 date: '2026-09-16'
 category: books
 tags: []
 status: DRAFT
-imageUrl: articles/images/book4/1789570444229-0-image-01.png
+imageUrl: articles/images/book4/1789570870514-0-image-01.png
 ---
 Book 4 description
