@@ -2,11 +2,19 @@
   {
     "id": "books",
     "plLabel": "Książki",
-    "enLabel": "Books"
+    "enLabel": "Books",
+    "bannerUrl": "banners/books.jpg"
+  },
+  {
+    "id": "movies",
+    "plLabel": "Filmy",
+    "enLabel": "Movies",
+    "bannerUrl": "banners/movies.jpg"
   },
   {
     "id": "travel",
     "plLabel": "Podróże",
-    "enLabel": "Travels"
+    "enLabel": "Travel",
+    "bannerUrl": "banners/travels.jpg"
   }
 ]
