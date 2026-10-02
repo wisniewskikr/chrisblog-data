@@ -4,7 +4,7 @@ author: Chris
 date: '2026-10-02'
 category: books
 tags: []
-status: DRAFT
+status: PUBLISHED
 imageUrl: articles/images/book-4/1790929225794-0-image-01.png
 ---
 ## Wprowadzenie
