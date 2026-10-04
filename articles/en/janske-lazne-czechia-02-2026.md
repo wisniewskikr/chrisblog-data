@@ -1,15 +1,17 @@
 ---
-title: Janske Lazne, Czechia, 02.2026
+title: Janské Lázně, Czechia, 02.2026
 author: Chris
 date: '2026-10-04'
 category: travel
 tags: []
 status: DRAFT
-imageUrl: articles/images/janske-lazne-czechia-02-2026/1791115282219-0-google-album-cover.jpg
+imageUrl: articles/images/janske-lazne-czechia-02-2026/1791115904257-0-google-album-cover.jpg
 ---
 # Description
 
-The article describes a trip to Janske Lazne in Czechia.
+The article describes a trip to Janské Lázně in Czechia.
+
+<cover-image>
 
 # Google Album
 
