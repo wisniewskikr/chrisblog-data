@@ -4,7 +4,7 @@ author: Chris
 date: '2026-10-04'
 category: travel
 tags: []
-status: DRAFT
+status: PUBLISHED
 imageUrl: articles/images/janske-lazne-czechia-02-2026/1791115904257-0-google-album-cover.jpg
 ---
 # Description
