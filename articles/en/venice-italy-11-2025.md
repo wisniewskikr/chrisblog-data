@@ -5,7 +5,7 @@ date: '2026-10-05'
 category: travel
 tags:
 - Italy
-status: DRAFT
+status: PUBLISHED
 imageUrl: articles/images/venice-italy-11-2025/1791221304200-0-google-album-cover.jpg
 ---
 # Description
