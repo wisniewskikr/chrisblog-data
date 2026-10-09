@@ -2,13 +2,11 @@ LINK
 
 * Link to Google Album: <google-album-link>
 
-TEMPLATE
-
-# Description
+DESCRIPTION
 
 The article describes a trip to <city> in <country>.
 
-<cover-image>
+BODY
 
 # Google Album
 
