@@ -6,7 +6,7 @@ date: '2026-10-09'
 category: travel
 tags:
 - Poland
-status: DRAFT
+status: PUBLISHED
 imageUrl: articles/images/zamosc-poland-10-2026/1791566294741-0-google-album-cover.jpg
 ---
 # Google Album
