@@ -9,7 +9,7 @@ author: Chris
 date: '2026-10-12'
 category: movies
 tags: []
-status: DRAFT
+status: PUBLISHED
 imageUrl: articles/images/ted-how-to-make-stress-your-friend-kelly-mcgonigal/1791823782856-0-ted-talk-cover.jpg
 ---
 # Treść
