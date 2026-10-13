@@ -13,7 +13,7 @@ category: books
 tags:
 - Non-fiction
 - Reportage
-status: DRAFT
+status: PUBLISHED
 imageUrl: articles/images/how-to-feed-the-world-vaclav-smil/1791909160368-0-book-cover.jpg
 ---
 # Content
