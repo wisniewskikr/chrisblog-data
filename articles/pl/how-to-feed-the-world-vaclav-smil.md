@@ -14,7 +14,7 @@ category: books
 tags:
 - Literatura faktu
 - Reportaż
-status: DRAFT
+status: PUBLISHED
 imageUrl: articles/images/how-to-feed-the-world-vaclav-smil/1791909160368-0-book-cover.jpg
 ---
 # Treść
