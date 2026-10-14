@@ -8,6 +8,7 @@ description: "Nigdy wcześniej nie musieliśmy wyżywić tylu ludzi co dziś.\r\
   \ dietę wegańską i cieszyć się zdrowiem? A co najważniejsze – czy powinniśmy?\r\n\
   \r\nWybitny naukowiec Vaclav Smil odpowiada nie tylko na te pytania. Rozprawia się\
   \ z mitami i objaśnia, skąd naprawdę bierze się żywność."
+rating: 3
 author: Chris
 date: '2026-10-14'
 category: books

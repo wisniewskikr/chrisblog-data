@@ -5,6 +5,7 @@ description: 'Stres sprawia, że serce bije szybciej, oddech przyspiesza, a czo�
   sugerują, że może być szkodliwy tylko wtedy, gdy sami w to wierzymy. Psycholożka
   Kelly McGonigal zachęca nas, by postrzegać stres pozytywnie, i przedstawia niedoceniany
   sposób na jego redukcję: troszczenie się o innych.'
+rating: 3
 author: Chris
 date: '2026-10-14'
 category: movies

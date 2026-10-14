@@ -5,6 +5,7 @@ description: 'Stress. It makes your heart pound, your breathing quicken and your
   that stress may only be bad for you if you believe that to be the case. Psychologist
   Kelly McGonigal urges us to see stress as a positive, and introduces us to an unsung
   mechanism for stress reduction: reaching out to others.'
+rating: 3
 author: Chris
 date: '2026-10-14'
 category: movies

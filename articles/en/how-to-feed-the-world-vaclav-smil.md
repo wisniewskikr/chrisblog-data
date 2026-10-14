@@ -7,6 +7,7 @@ description: "We have never had to feed as many people as we do today.\r\n\r\nHo
   \n\r\nCould we all adopt a vegan diet and enjoy good health? And more importantly\
   \ — should we?\r\n\r\nDistinguished scientist Vaclav Smil answers not only these\
   \ questions. He dismantles myths and explains where our food really comes from."
+rating: 3
 author: Chris
 date: '2026-10-14'
 category: books

@@ -1,6 +1,7 @@
 ---
 title: Zamość, Poland, 10.2026
 description: The article describes a trip to Zamość in Poland.
+rating: 3
 author: Chris
 date: '2026-10-09'
 category: travel

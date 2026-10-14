@@ -1,6 +1,7 @@
 ---
 title: Zamość, Polska, 10.2026
 description: Artykuł opisuje wycieczkę do Zamościa w Polsce.
+rating: 3
 author: Chris
 date: '2026-10-09'
 category: travel
