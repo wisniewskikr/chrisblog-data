@@ -1,2 +1,0 @@
-Tytuł gry:
-Studio:
