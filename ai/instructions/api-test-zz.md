@@ -1,1 +1,0 @@
-Pisz kr�tko.
