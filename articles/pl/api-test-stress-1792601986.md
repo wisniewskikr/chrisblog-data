@@ -6,7 +6,7 @@ description: 'Stres powoduje, że serce bije szybciej, oddech przyspiesza, a czo
   tak jest. Psycholożka Kelly McGonigal zachęca nas do postrzegania stresu jako czegoś
   pozytywnego i przedstawia niedoceniany sposób na jego redukcję: nawiązywanie kontaktu
   z innymi ludźmi.'
-rating: 4
+rating: 5
 author: Chris
 date: '2026-10-21'
 category: movies
