@@ -6,7 +6,7 @@ author: Chris
 date: '2021-03-22'
 category: travel
 tags:
-- Brak
+- Wietnam
 status: PUBLISHED
 imageUrl: articles/images/ninh-binh-vietnam-12-2020/1793040478159-0-google-album-cover.jpg
 ---
