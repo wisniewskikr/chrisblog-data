@@ -1,0 +1,16 @@
+---
+title: Prilep, Macedonia Północna, 11.2022
+description: Artykuł opisuje wycieczkę do Prilepu w Macedonii Północnej w listopadzie
+  2022.
+rating: 3
+author: Chris
+date: '2025-10-25'
+category: travel
+tags:
+- Macedonia Północna
+status: PUBLISHED
+imageUrl: articles/images/prilep-north-macedonia-11-2022/1793218490657-0-cover.jpg
+---
+Artykuł opisuje wycieczkę do Prilepu w Macedonii Północnej w listopadzie 2022.
+
+[Album ze zdjęciami](https://photos.app.goo.gl/yztjcVabEGV6TPrBA)
