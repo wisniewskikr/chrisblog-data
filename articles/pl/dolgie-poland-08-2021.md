@@ -1,0 +1,16 @@
+---
+title: Dolgie, Polska, 08.2021
+description: Artykuł opisuje wycieczkę do miejscowości Dolgie w Polsce w sierpniu
+  2021.
+rating: 3
+author: Chris
+date: '2022-07-24'
+category: travel
+tags:
+- Polska
+status: PUBLISHED
+imageUrl: articles/images/dolgie-poland-08-2021/1793215984672-0-cover.jpg
+---
+Artykuł opisuje wycieczkę do miejscowości Dolgie w Polsce w sierpniu 2021.
+
+[Album ze zdjęciami](https://photos.app.goo.gl/LZdHhH6VfaodmfuB7)
