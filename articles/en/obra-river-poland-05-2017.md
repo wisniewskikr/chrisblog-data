@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/obra-river-poland-05-2017/1793215847097-0-cover.jpg
 ---
-The article describes a trip to Obra River in Poland in May 2017.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/1BSJCTAjmf4dFy66A)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/1BSJCTAjmf4dFy66A).
