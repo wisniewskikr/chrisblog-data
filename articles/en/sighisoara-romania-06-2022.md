@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/sighisoara-romania-06-2022/1793215753670-0-cover.jpg
 ---
-The article describes a trip to Sighisoara in Romania in June 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/uU4eSEaVCXi5ZmYS9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/uU4eSEaVCXi5ZmYS9).
