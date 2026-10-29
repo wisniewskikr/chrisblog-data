@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/nesebar-bulgaria-05-2022/1793213984467-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Nesebyru w Bułgarii w maju 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/wTUuXmxY156iVsQs9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/wTUuXmxY156iVsQs9).
