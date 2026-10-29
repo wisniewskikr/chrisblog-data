@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/london-england-11-2012/1793217715823-0-cover.jpg
 ---
-The article describes a trip to London in England in November 2012.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/2qSGMEBtNhkYGwdt6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/2qSGMEBtNhkYGwdt6).
