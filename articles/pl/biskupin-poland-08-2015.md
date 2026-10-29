@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/biskupin-poland-08-2015/1793216033689-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Biskupina w Polsce w sierpniu 2015.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/c6ZkGMbsErfEvudcA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/c6ZkGMbsErfEvudcA).
