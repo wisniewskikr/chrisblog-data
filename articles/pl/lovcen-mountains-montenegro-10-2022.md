@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/lovcen-mountains-montenegro-10-2022/1793218356761-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę w góry Lovćen w Czarnogórze w październiku 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/YMtw7q4hAL1F9m499)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/YMtw7q4hAL1F9m499).
