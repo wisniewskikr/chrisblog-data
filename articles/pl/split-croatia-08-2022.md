@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/split-croatia-08-2022/1793217940734-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Splitu w Chorwacji w sierpniu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/1SNYqCknWNuEc5W76)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/1SNYqCknWNuEc5W76).
