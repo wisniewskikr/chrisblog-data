@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/tirana-albania-11-2022/1793218526088-0-cover.jpg
 ---
-The article describes a trip to Tirana in Albania in November 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/UCCqKfFXyFzTDhLz6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/UCCqKfFXyFzTDhLz6).
