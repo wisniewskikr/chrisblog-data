@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kanchanaburi-thailand-01-2020/1793214025700-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Kanchanaburi w Tajlandii w styczniu 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/UZ8jP4dX1WiG2awSA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/UZ8jP4dX1WiG2awSA).
