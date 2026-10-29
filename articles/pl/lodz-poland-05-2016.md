@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/lodz-poland-05-2016/1793215939854-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Łodzi w Polsce w maju 2016.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/yxN2bBsPZMAt8nP48)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/yxN2bBsPZMAt8nP48).
