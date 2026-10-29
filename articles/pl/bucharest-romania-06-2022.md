@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bucharest-romania-06-2022/1793214238088-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Bukaresztu w Rumunii w czerwcu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/Pz58ktqJ5xUgHaet5)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/Pz58ktqJ5xUgHaet5).
