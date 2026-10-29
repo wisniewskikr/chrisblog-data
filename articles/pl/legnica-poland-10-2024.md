@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/legnica-poland-10-2024/1793219072909-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Legnicy w Polsce w październiku 2024.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/tFXcwDYgy1e3BWP16)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/tFXcwDYgy1e3BWP16).
