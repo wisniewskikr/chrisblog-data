@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ischgl-austria-12-2019/1793214138645-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Ischgl w Austrii w grudniu 2019.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/kPCKKsQh7xSXos9i6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/kPCKKsQh7xSXos9i6).
