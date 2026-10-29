@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ostrog-monastery-montenegro-10-2022/1793218278565-0-cover.jpg
 ---
-The article describes a trip to Ostrog Monastery in Montenegro in October 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/D3DLNSZD7pXgJiFa7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/D3DLNSZD7pXgJiFa7).
