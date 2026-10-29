@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/cluj-napoca-romania-06-2022/1793215778965-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Kluż-Napoki w Rumunii w czerwcu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/L8DX9NYQKXsDocs2A)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/L8DX9NYQKXsDocs2A).
