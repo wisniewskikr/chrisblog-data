@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kiev-ukraine-05-2013/1793217692328-0-cover.jpg
 ---
-The article describes a trip to Kiev in Ukraine in May 2013.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/bzckovnR2t2v3ACCA)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/bzckovnR2t2v3ACCA).
