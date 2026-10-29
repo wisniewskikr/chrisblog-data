@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/skopje-north-macedonia-11-2022/1793218452564-0-cover.jpg
 ---
-The article describes a trip to Skopje in North Macedonia in November 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/T5eFis8dWK9YgYME8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/T5eFis8dWK9YgYME8).
