@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/yerevan-armenia-10-2021/1793212399051-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Erywania w Armenii w październiku 2021.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/F83odEyByo6rPGrt9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/F83odEyByo6rPGrt9).
