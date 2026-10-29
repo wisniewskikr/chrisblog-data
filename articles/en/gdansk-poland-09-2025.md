@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/gdansk-poland-09-2025/1793219135755-0-cover.jpg
 ---
-The article describes a trip to Gdansk in Poland in September 2025.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/6zraDQB1wKBFvE2U7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/6zraDQB1wKBFvE2U7).
