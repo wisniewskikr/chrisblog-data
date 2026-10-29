@@ -12,6 +12,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/croatia-italy-and-slovenia-06-2016/1793215915772-0-cover.jpg
 ---
-The article describes a trip to Croatia, Italy and Slovenia in June 2016.
+## Google Album
 
-[Photo album](https://goo.gl/photos/QydMxUNsnWPZkmZE8)
+Pictures from this area you can find in my [Google Album](https://goo.gl/photos/QydMxUNsnWPZkmZE8).
