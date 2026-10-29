@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/tel-aviv-jaffa-israel-02-2022/1793129374863-0-cover.jpg
 ---
-The article describes a trip to Tel Aviv - Jaffa in Israel in February 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/p9rcRU1qCYLFww2W7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/p9rcRU1qCYLFww2W7).
