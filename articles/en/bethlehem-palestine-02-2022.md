@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bethlehem-palestine-02-2022/1793211512751-0-cover.jpg
 ---
-The article describes a trip to Bethlehem in Palestine in February 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/s3178xyj8ZXavde47)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/s3178xyj8ZXavde47).
