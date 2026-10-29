@@ -14,6 +14,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/finland-estonia-latvia-and-lithuania-09-2013/1793217523226-0-cover.jpg
 ---
-The article describes a trip to Finland, Estonia, Latvia and Lithuania in September 2013.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/qr5945Wn1beg4Jed9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/qr5945Wn1beg4Jed9).
