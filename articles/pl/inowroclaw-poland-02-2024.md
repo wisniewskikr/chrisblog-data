@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/inowroclaw-poland-02-2024/1793218664758-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Inowrocławia w Polsce w lutym 2024.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/3fRTW2aZMZ1HKQ9V6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/3fRTW2aZMZ1HKQ9V6).
