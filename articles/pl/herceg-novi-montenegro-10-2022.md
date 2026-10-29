@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/herceg-novi-montenegro-10-2022/1793218343919-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Herceg Novi w Czarnogórze w październiku 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/YSKonrd6kyvt97ci9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/YSKonrd6kyvt97ci9).
