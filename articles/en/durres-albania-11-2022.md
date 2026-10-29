@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/durres-albania-11-2022/1793218538321-0-cover.jpg
 ---
-The article describes a trip to Durres in Albania in November 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/aALRtkEGAjN2SpQP8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/aALRtkEGAjN2SpQP8).
