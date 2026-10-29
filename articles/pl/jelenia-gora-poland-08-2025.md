@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/jelenia-gora-poland-08-2025/1793219097819-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Jeleniej Góry w Polsce w sierpniu 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/k6K4h947MvXk2b2S6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/k6K4h947MvXk2b2S6).
