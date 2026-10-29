@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/inowroclaw-poland-10-2026/1793219544140-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Inowrocławia w Polsce w październiku 2026.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/Yy6Go14Kz5wCxdEq6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/Yy6Go14Kz5wCxdEq6).
