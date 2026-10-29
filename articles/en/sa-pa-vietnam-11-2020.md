@@ -10,8 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/sa-pa-vietnam-11-2020/1793210832597-0-cover.jpg
 ---
-The article describes a trip to Sa Pa in Vietnam in November 2020.
+## Google Album
 
-Photos from the trip are in the Google album:
-
-[Photo album](https://photos.app.goo.gl/4JYWjTyVrAvNvmP47)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/4JYWjTyVrAvNvmP47).
