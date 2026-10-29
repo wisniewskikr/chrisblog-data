@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ko-chang-thailand-01-2020/1793214012623-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Ko Chang w Tajlandii w styczniu 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/a5Ms3osZd6wNHPVQ6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/a5Ms3osZd6wNHPVQ6).
