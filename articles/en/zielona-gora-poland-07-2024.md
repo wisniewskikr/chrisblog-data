@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zielona-gora-poland-07-2024/1793218752013-0-cover.jpg
 ---
-The article describes a trip to Zielona Gora in Poland in July 2024.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/AADCNLCXCvjRWnYj6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/AADCNLCXCvjRWnYj6).
