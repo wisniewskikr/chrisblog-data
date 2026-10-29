@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ischgl-austria-12-2019/1793214138645-0-cover.jpg
 ---
-The article describes a trip to Ischgl in Austria in December 2019.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/kPCKKsQh7xSXos9i6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/kPCKKsQh7xSXos9i6).
