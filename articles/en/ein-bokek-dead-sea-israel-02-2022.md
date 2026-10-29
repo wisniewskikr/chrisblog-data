@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ein-bokek-dead-sea-israel-02-2022/1793212383719-0-cover.jpg
 ---
-The article describes a trip to Ein Bokek (Dead Sea) in Israel in February 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/nJQ7NJ9h6geB1dxJ7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/nJQ7NJ9h6geB1dxJ7).
