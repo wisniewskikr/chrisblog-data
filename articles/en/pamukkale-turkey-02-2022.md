@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/pamukkale-turkey-02-2022/1793129443896-0-cover.jpg
 ---
-The article describes a trip to Pamukkale in Turkey in February 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/BkMfTxiuH5LCNvaw9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/BkMfTxiuH5LCNvaw9).
