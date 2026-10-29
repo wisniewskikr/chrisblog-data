@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/sukhothai-thailand-01-2020/1793214095909-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Sukhothai w Tajlandii w styczniu 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/R9rQ4CMG3meq81xV6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/R9rQ4CMG3meq81xV6).
