@@ -12,6 +12,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/scandinavia-09-2015/1793216022755-0-cover.jpg
 ---
-The article describes a trip to Scandinavia in September 2015.
+## Google Album
 
-[Photo album](https://goo.gl/photos/3Hz4fjdE9XBEntzLA)
+Pictures from this area you can find in my [Google Album](https://goo.gl/photos/3Hz4fjdE9XBEntzLA).
