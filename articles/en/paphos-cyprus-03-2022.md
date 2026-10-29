@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/paphos-cyprus-03-2022/1793212525402-0-cover.jpg
 ---
-The article describes a trip to Paphos in Cyprus in March 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/zidhAprPy1exdQs58)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/zidhAprPy1exdQs58).
