@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kiev-ukraine-05-2013/1793217692328-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Kijowa na Ukrainie w maju 2013.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/bzckovnR2t2v3ACCA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/bzckovnR2t2v3ACCA).
