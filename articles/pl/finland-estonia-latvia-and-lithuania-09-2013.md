@@ -10,6 +10,7 @@ tags:
 - Litwa
 - Finlandia
 - Estonia
+- Łotwa
 status: PUBLISHED
 imageUrl: articles/images/finland-estonia-latvia-and-lithuania-09-2013/1793217523226-0-cover.jpg
 ---
