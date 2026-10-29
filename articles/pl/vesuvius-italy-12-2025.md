@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/vesuvius-italy-12-2025/1793218916965-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę na Wezuwiusz we Włoszech w grudniu 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/c12RkAm3NSdN3i8JA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/c12RkAm3NSdN3i8JA).
