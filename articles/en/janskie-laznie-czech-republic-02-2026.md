@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/janskie-laznie-czech-republic-02-2026/1793219454662-0-cover.jpg
 ---
-The article describes a trip to Janskie Laznie in Czech Republic in February 2026.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/rovPMTrKayTKFekQ7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/rovPMTrKayTKFekQ7).
