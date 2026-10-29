@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/quba-azerbaijan-09-2021/1793212453372-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Quby w Azerbejdżanie we wrześniu 2021.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/QJqiVbwGmxrU2h9W9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/QJqiVbwGmxrU2h9W9).
