@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ankara-turkey-12-2021/1793211560568-0-cover.jpg
 ---
-The article describes a trip to Ankara in Turkey in December 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/HWbhJiVPpeJsYCh38)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/HWbhJiVPpeJsYCh38).
