@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/siem-reap-cambodia-02-2020/1793213930412-0-cover.jpg
 ---
-The article describes a trip to Siem Reap in Cambodia in February 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/Zjj99Bgb8MggNKMa7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/Zjj99Bgb8MggNKMa7).
