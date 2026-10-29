@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/mccheta-and-jvari-georgia-08-2021/1793212616734-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Mcchety i Dżwari w Gruzji w sierpniu 2021.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/K2eAYRxGYy1S2qiU6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/K2eAYRxGYy1S2qiU6).
