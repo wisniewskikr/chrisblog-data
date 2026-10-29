@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/nazareth-israel-02-2022/1793211468758-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Nazaretu w Izraelu w lutym 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/krhPqWifJpUR9QNW7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/krhPqWifJpUR9QNW7).
