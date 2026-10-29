@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/berlin-germany-11-2011/1793217796564-0-cover.jpg
 ---
-The article describes a trip to Berlin in Germany in November 2011.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/jqwzA95Du1iTPySZ8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/jqwzA95Du1iTPySZ8).
