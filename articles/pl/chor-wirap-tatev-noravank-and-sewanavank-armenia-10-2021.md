@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/chor-wirap-tatev-noravank-and-sewanavank-armenia-10-2021/1793212412170-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Chor Wirap, Tatew, Norawank i Sewanawank w Armenii w październiku 2021.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/qKi2RMiBfDvjbECV9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/qKi2RMiBfDvjbECV9).
