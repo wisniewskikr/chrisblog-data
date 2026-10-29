@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/batumi-georgia-09-2021/1793212564221-0-cover.jpg
 ---
-The article describes a trip to Batumi in Georgia in September 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/6zRexg5hyMGZLej88)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/6zRexg5hyMGZLej88).
