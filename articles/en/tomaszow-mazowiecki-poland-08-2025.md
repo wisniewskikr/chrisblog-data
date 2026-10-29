@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/tomaszow-mazowiecki-poland-08-2025/1793219124085-0-cover.jpg
 ---
-The article describes a trip to Tomaszow Mazowiecki in Poland in August 2025.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/AfaobbBXdZGzrtqF9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/AfaobbBXdZGzrtqF9).
