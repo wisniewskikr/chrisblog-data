@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/pellizzano-italy-12-2017/1793215768093-0-cover.jpg
 ---
-The article describes a trip to Pellizzano in Italy in December 2017.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/zqraNP86PYKcGCMg1)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/zqraNP86PYKcGCMg1).
