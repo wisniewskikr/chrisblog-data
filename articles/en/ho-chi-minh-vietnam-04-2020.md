@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ho-chi-minh-vietnam-04-2020/1793213747865-0-cover.jpg
 ---
-The article describes a trip to Ho Chi Minh in Vietnam in April 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/tvVFJB2fZqKrjCHh7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/tvVFJB2fZqKrjCHh7).
