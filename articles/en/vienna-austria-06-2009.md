@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/vienna-austria-06-2009/1793218139040-0-cover.jpg
 ---
-The article describes a trip to Vienna in Austria in June 2009.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/rC2MfziPbFCLke6E7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/rC2MfziPbFCLke6E7).
