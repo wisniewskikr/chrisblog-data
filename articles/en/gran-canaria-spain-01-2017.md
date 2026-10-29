@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/gran-canaria-spain-01-2017/1793215873732-0-cover.jpg
 ---
-The article describes a trip to Gran Canaria in Spain in January 2017.
+## Google Album
 
-[Photo album](https://goo.gl/photos/cdWwoVAaUo4vZ1Vy8)
+Pictures from this area you can find in my [Google Album](https://goo.gl/photos/cdWwoVAaUo4vZ1Vy8).
