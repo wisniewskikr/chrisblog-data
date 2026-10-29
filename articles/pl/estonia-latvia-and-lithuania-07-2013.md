@@ -6,9 +6,9 @@ author: Chris
 date: '2022-08-21'
 category: travel
 tags:
-- Finlandia
 - Estonia
 - Łotwa
+- Litwa
 status: PUBLISHED
 imageUrl: articles/images/estonia-latvia-and-lithuania-07-2013/1793217667939-0-cover.jpg
 ---
