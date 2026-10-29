@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/slupsk-poland-07-2024/1793218738197-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Słupska w Polsce w lipcu 2024.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/aFZdZczwH7Qtos7L7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/aFZdZczwH7Qtos7L7).
