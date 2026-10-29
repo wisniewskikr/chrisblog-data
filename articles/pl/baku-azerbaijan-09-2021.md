@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/baku-azerbaijan-09-2021/1793212466351-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Baku w Azerbejdżanie we wrześniu 2021.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/6SALrHhqtkFQrSnQ6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/6SALrHhqtkFQrSnQ6).
