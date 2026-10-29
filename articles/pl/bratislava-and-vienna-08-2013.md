@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bratislava-and-vienna-08-2013/1793217588795-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Bratysławy i Wiednia w sierpniu 2013.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/ALpgTYeM46CLMpCq8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/ALpgTYeM46CLMpCq8).
