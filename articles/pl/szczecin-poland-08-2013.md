@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/szczecin-poland-08-2013/1793217612309-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Szczecina w Polsce w sierpniu 2013.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/gLVDn5PfSQZXTTwb7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/gLVDn5PfSQZXTTwb7).
