@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/david-gareja-georgia-09-2021/1793212576915-0-cover.jpg
 ---
-The article describes a trip to David Gareja in Georgia in September 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/qv8GyFGATtPfMUYk9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/qv8GyFGATtPfMUYk9).
