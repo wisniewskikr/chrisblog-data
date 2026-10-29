@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ustronie-morskie-kolobrzeg-poland-03-2024/1793218677492-0-cover.jpg
 ---
-The article describes a trip to Ustronie Morskie & Kolobrzeg in Poland in March 2024.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/xCEBdmn5FUHadtte6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/xCEBdmn5FUHadtte6).
