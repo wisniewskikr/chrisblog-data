@@ -13,6 +13,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/russia-mongolia-and-china-07-2014/1793216141409-0-cover.jpg
 ---
-Artykuł opisuje podróż Koleją Transsyberyjską do Rosji, Mongolii i Chin w lipcu 2014.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/9x4GAs44X5RHPh7u7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/9x4GAs44X5RHPh7u7).
