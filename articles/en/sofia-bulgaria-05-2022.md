@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/sofia-bulgaria-05-2022/1793213584966-0-cover.jpg
 ---
-The article describes a trip to Sofia in Bulgaria in May 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/RNvUPXS3gqdGgTrN6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/RNvUPXS3gqdGgTrN6).
