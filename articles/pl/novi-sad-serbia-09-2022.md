@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/novi-sad-serbia-09-2022/1793218227309-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Nowego Sadu w Serbii we wrześniu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/qjUpBPoYmfEXCC256)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/qjUpBPoYmfEXCC256).
