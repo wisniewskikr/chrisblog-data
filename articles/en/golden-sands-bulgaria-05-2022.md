@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/golden-sands-bulgaria-05-2022/1793213694071-0-cover.jpg
 ---
-The article describes a trip to Golden Sands in Bulgaria in May 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/goUHXFKTciXvNtWs6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/goUHXFKTciXvNtWs6).
