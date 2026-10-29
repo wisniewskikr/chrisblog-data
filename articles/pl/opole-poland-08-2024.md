@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/opole-poland-08-2024/1793219010247-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Opola w Polsce w sierpniu 2024.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/ZQbK6DTRG1tDr8tf7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/ZQbK6DTRG1tDr8tf7).
