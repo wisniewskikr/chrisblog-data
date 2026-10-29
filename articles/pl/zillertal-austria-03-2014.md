@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zillertal-austria-03-2014/1793216200838-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do doliny Zillertal w Austrii w marcu 2014.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/mAmYZnrRmWZhfDGKA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/mAmYZnrRmWZhfDGKA).
