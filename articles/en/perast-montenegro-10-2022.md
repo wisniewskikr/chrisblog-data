@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/perast-montenegro-10-2022/1793218369609-0-cover.jpg
 ---
-The article describes a trip to Perast in Montenegro in October 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/65TrvAd2n3pNujtj8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/65TrvAd2n3pNujtj8).
