@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/hue-vietnam-10-2020/1793213611585-0-cover.jpg
 ---
-The article describes a trip to Hue in Vietnam in October 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/Ma98mdMDrQFzqRMu5)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/Ma98mdMDrQFzqRMu5).
