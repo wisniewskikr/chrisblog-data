@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/swidnik-poland-10-2011/1793217807270-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Świdnika w Polsce w październiku 2011.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/TBniA4Yk2p2cHBrm7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/TBniA4Yk2p2cHBrm7).
