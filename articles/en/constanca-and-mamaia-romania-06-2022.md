@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/constanca-and-mamaia-romania-06-2022/1793214177236-0-cover.jpg
 ---
-The article describes a trip to Constanca and Mamaia in Romania in June 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/pgG537TM3E17j3KL7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/pgG537TM3E17j3KL7).
