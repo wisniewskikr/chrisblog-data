@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/poznan-poland-08-2013/1793217600389-0-cover.jpg
 ---
-The article describes a trip to Poznan in Poland in August 2013.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/U4UfxcGuccfDGkqw5)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/U4UfxcGuccfDGkqw5).
