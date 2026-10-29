@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/vilnius-lithuania-12-2009/1793218076009-0-cover.jpg
 ---
-The article describes a trip to Vilnius in Lithuania in December 2009.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/FzQeYmjYaXSSCdMt7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/FzQeYmjYaXSSCdMt7).
