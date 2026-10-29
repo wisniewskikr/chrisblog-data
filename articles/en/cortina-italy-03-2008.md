@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/cortina-italy-03-2008/1793218162243-0-cover.jpg
 ---
-The article describes a trip to Cortina in Italy in March 2008.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/h4diDAjtuydeQVRk9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/h4diDAjtuydeQVRk9).
