@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bangkok-thailand-01-2020/1793214067127-0-cover.jpg
 ---
-The article describes a trip to Bangkok in Thailand in January 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/zGEeGn9NyBhAjTtx7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/zGEeGn9NyBhAjTtx7).
