@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/sinaia-romania-06-2022/1793215642114-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Sinai w Rumunii w czerwcu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/5p5sxHqNyg1JH4TP8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/5p5sxHqNyg1JH4TP8).
