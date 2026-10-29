@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bielsko-biala-poland-04-2026/1793219297912-0-cover.jpg
 ---
-The article describes a trip to Bielsko-Biala in Poland in April 2026.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/3kMsN7woZZJ2SG8D7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/3kMsN7woZZJ2SG8D7).
