@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/stambul-turkey-11-2021/1793212323572-0-cover.jpg
 ---
-The article describes a trip to Stambul in Turkey in November 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/hRSN7kfmHT1idxwM6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/hRSN7kfmHT1idxwM6).
