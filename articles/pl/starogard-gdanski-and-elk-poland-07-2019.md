@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/starogard-gdanski-and-elk-poland-07-2019/1793214164830-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Starogardu Gdańskiego i Ełku w Polsce w lipcu 2019.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/d9DcFteoMFLjK6Ss7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/d9DcFteoMFLjK6Ss7).
