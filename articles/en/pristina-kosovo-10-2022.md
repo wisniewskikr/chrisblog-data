@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/pristina-kosovo-10-2022/1793218411602-0-cover.jpg
 ---
-The article describes a trip to Pristina in Kosovo in October 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/YEG7bjF3bZbBQmVu7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/YEG7bjF3bZbBQmVu7).
