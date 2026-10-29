@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/slupsk-poland-07-2024/1793218738197-0-cover.jpg
 ---
-The article describes a trip to Slupsk in Poland in July 2024.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/aFZdZczwH7Qtos7L7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/aFZdZczwH7Qtos7L7).
