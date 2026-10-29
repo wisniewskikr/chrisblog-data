@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kutaisi-georgia-09-2021/1793212538492-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Kutaisi w Gruzji we wrześniu 2021.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/S1Kq5XhPT8RpDsKD9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/S1Kq5XhPT8RpDsKD9).
