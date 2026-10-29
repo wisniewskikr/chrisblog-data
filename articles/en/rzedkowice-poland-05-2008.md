@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/rzedkowice-poland-05-2008/1793218151031-0-cover.jpg
 ---
-The article describes a trip to Rzedkowice in Poland in May 2008.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/igUAJ2qiCt2ApREm7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/igUAJ2qiCt2ApREm7).
