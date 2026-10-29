@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ayia-napa-cyprus-03-2022/1793212653078-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Ayia Napy na Cyprze w marcu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/bu5nyLtJGLf3iEhC6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/bu5nyLtJGLf3iEhC6).
