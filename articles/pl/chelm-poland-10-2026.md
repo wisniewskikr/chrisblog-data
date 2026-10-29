@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/chelm-poland-10-2026/1793219531408-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Chełma w Polsce w październiku 2026.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/wLuK81V8AjKe7qTx8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/wLuK81V8AjKe7qTx8).
