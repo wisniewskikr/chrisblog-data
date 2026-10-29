@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/prizren-kosovo-10-2022/1793218424790-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Prizrenu w Kosowie w październiku 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/9pD7So12xQysQmjb6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/9pD7So12xQysQmjb6).
