@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/olsztyn-poland-11-2023/1793218627540-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Olsztyna w Polsce w listopadzie 2023.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/rgDVKXcdPcpehY467)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/rgDVKXcdPcpehY467).
