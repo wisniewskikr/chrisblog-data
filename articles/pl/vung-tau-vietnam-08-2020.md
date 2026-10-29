@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/vung-tau-vietnam-08-2020/1793213680040-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Vung Tau w Wietnamie w sierpniu 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/XtaHpbg7N7qTvUTu7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/XtaHpbg7N7qTvUTu7).
