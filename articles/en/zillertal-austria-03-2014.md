@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zillertal-austria-03-2014/1793216200838-0-cover.jpg
 ---
-The article describes a trip to Zillertal in Austria in March 2014.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/mAmYZnrRmWZhfDGKA)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/mAmYZnrRmWZhfDGKA).
