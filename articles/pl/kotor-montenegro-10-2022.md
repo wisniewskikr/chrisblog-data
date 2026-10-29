@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kotor-montenegro-10-2022/1793218330539-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Kotoru w Czarnogórze w październiku 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/W2WbQqHyCW7tGr539)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/W2WbQqHyCW7tGr539).
