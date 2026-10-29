@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/sofia-bulgaria-05-2022/1793213584966-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Sofii w Bułgarii w maju 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/RNvUPXS3gqdGgTrN6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/RNvUPXS3gqdGgTrN6).
