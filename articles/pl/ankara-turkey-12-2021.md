@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ankara-turkey-12-2021/1793211560568-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Ankary w Turcji w grudniu 2021.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/HWbhJiVPpeJsYCh38)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/HWbhJiVPpeJsYCh38).
