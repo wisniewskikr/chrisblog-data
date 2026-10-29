@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/mestia-and-ushguli-georgia-09-2021/1793212551514-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Mestii i Uszguli w Gruzji we wrześniu 2021.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/N7d3u4xT9SHLTmdv6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/N7d3u4xT9SHLTmdv6).
