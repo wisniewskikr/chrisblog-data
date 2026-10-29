@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/belarus-06-2015/1793216055538-0-cover.jpg
 ---
-The article describes a trip to Belarus in June 2015.
+## Google Album
 
-[Photo album](https://goo.gl/photos/apn2oRTVTAkqfcGu9)
+Pictures from this area you can find in my [Google Album](https://goo.gl/photos/apn2oRTVTAkqfcGu9).
