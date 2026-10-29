@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/burgas-bulgaria-05-2022/1793213858967-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Burgas w Bułgarii w maju 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/vKjtvmr5w2c81AAp6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/vKjtvmr5w2c81AAp6).
