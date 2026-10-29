@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/vau-dejes-albania-11-2022/1793218551140-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Vau i Dejës w Albanii w listopadzie 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/FmhbMWLEbkUF178n7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/FmhbMWLEbkUF178n7).
