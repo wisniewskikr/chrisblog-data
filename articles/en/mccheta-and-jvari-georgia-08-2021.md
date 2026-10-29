@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/mccheta-and-jvari-georgia-08-2021/1793212616734-0-cover.jpg
 ---
-The article describes a trip to Mccheta and Jvari in Georgia in August 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/K2eAYRxGYy1S2qiU6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/K2eAYRxGYy1S2qiU6).
