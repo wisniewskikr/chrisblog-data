@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/koh-rong-cambodia-02-2020/1793213943186-0-cover.jpg
 ---
-The article describes a trip to Koh Rong in Cambodia in February 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/j98Exc8vfjBUr4i76)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/j98Exc8vfjBUr4i76).
