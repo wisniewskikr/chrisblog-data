@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/luang-prabang-laos-02-2020/1793213900563-0-cover.jpg
 ---
-The article describes a trip to Luang Prabang in Laos in February 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/T6LJYw9oVG2pWcbi7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/T6LJYw9oVG2pWcbi7).
