@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zielona-gora-poland-07-2024/1793218752013-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Zielonej Góry w Polsce w lipcu 2024.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/AADCNLCXCvjRWnYj6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/AADCNLCXCvjRWnYj6).
