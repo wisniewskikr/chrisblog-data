@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/lindos-rhodes-island-greece-05-2022/1793213542014-0-cover.jpg
 ---
-The article describes a trip to Lindos (Rhodes Island) in Greece in May 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/G1jCYBmv9U3rS6kT9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/G1jCYBmv9U3rS6kT9).
