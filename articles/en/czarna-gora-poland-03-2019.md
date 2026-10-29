@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/czarna-gora-poland-03-2019/1793214227399-0-cover.jpg
 ---
-The article describes a trip to Czarna Gora in Poland in March 2019.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/7UUx2ymcLmcG6yNC6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/7UUx2ymcLmcG6yNC6).
