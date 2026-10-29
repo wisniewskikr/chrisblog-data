@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/medjugorie-bosnia-and-herzegovina-09-2022/1793218027892-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Medziugorie w Bośni i Hercegowinie we wrześniu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/YUD3psY76pFRWdUW9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/YUD3psY76pFRWdUW9).
