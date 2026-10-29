@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/tirana-albania-11-2022/1793218526088-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Tirany w Albanii w listopadzie 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/UCCqKfFXyFzTDhLz6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/UCCqKfFXyFzTDhLz6).
