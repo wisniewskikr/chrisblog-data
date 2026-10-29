@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/gori-and-uplisciche-georgia-08-2021/1793212627288-0-cover.jpg
 ---
-The article describes a trip to Gori and Uplisciche in Georgia in August 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/gaoTy74ArTsuX9t8A)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/gaoTy74ArTsuX9t8A).
