@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/berlin-germany-05-2024/1793218725071-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Berlina w Niemczech w maju 2024.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/FjQMAnUhVLfj2idQ7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/FjQMAnUhVLfj2idQ7).
