@@ -10,8 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/sa-pa-vietnam-11-2020/1793210832597-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Sa Pa w Wietnamie w listopadzie 2020 roku.
+## Album Google
 
-Zdjęcia z wyjazdu są w albumie Google:
-
-[Album ze zdjęciami](https://photos.app.goo.gl/4JYWjTyVrAvNvmP47)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/4JYWjTyVrAvNvmP47).
