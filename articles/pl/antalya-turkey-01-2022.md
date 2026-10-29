@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/antalya-turkey-01-2022/1793129429404-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Antalyi w Turcji w styczniu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/kBA9JmgGyXnX7faNA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/kBA9JmgGyXnX7faNA).
