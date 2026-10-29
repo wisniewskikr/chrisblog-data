@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/vung-tau-vietnam-08-2020/1793213680040-0-cover.jpg
 ---
-The article describes a trip to Vung Tau in Vietnam in August 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/XtaHpbg7N7qTvUTu7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/XtaHpbg7N7qTvUTu7).
