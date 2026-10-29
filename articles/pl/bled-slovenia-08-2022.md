@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bled-slovenia-08-2022/1793217577106-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Bledu w Słowenii w sierpniu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/ue3kdP3NLA5y5M8N8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/ue3kdP3NLA5y5M8N8).
