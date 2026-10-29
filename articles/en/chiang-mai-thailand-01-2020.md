@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/chiang-mai-thailand-01-2020/1793214080240-0-cover.jpg
 ---
-The article describes a trip to Chiang Mai in Thailand in January 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/GXZerbe3pURL4Q559)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/GXZerbe3pURL4Q559).
