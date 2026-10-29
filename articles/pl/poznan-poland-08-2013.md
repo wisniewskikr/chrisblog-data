@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/poznan-poland-08-2013/1793217600389-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Poznania w Polsce w sierpniu 2013.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/U4UfxcGuccfDGkqw5)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/U4UfxcGuccfDGkqw5).
