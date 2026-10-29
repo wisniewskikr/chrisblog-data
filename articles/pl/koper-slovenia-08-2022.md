@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/koper-slovenia-08-2022/1793217534046-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Kopru w Słowenii w sierpniu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/63LaRyzYc13yc1cp6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/63LaRyzYc13yc1cp6).
