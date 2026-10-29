@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/szklarska-poreba-poland-03-2018/1793215692984-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Szklarskiej Poręby w Polsce w maju 2018.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/alsajMTFYouGSd5T2)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/alsajMTFYouGSd5T2).
