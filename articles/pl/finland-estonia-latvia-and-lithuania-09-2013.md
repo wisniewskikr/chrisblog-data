@@ -14,6 +14,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/finland-estonia-latvia-and-lithuania-09-2013/1793217523226-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Finlandii, Estonii, na Łotwę i Litwę we wrześniu 2013.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/qr5945Wn1beg4Jed9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/qr5945Wn1beg4Jed9).
