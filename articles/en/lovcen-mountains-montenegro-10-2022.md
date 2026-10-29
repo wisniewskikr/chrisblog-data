@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/lovcen-mountains-montenegro-10-2022/1793218356761-0-cover.jpg
 ---
-The article describes a trip to Lovcen Mountains in Montenegro in October 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/YMtw7q4hAL1F9m499)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/YMtw7q4hAL1F9m499).
