@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/sunny-beach-bulgaria-05-2022/1793213997360-0-cover.jpg
 ---
-The article describes a trip to Sunny Beach in Bulgaria in May 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/uRHYmUPUg1PPwy5c7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/uRHYmUPUg1PPwy5c7).
