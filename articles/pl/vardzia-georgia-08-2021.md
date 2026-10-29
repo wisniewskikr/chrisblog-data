@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/vardzia-georgia-08-2021/1793212589286-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Wardzii w Gruzji w sierpniu 2021.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/5amxSFXj4WyEPXvw7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/5amxSFXj4WyEPXvw7).
