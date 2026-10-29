@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/lithuania-08-2007/1793218173508-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę na Litwę w sierpniu 2007.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/vrLbhUjGZ5ZhqTRE9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/vrLbhUjGZ5ZhqTRE9).
