@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/romania-10-2011/1793217818285-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Rumunii w październiku 2011.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/5yY4uGGDmxKsaeZC6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/5yY4uGGDmxKsaeZC6).
