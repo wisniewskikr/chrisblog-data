@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zlatibor-serbia-10-2022/1793218253440-0-cover.jpg
 ---
-The article describes a trip to Zlatibor in Serbia in October 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/MKLtPe8rPwwAKmpZ7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/MKLtPe8rPwwAKmpZ7).
