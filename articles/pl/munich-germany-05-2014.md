@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/munich-germany-05-2014/1793216189865-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Monachium w Niemczech w maju 2014.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/1LL4uuiQ2JpREPks9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/1LL4uuiQ2JpREPks9).
