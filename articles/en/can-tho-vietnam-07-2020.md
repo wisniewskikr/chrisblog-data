@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/can-tho-vietnam-07-2020/1793213734900-0-cover.jpg
 ---
-The article describes a trip to Can Tho in Vietnam in July 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/EZ9kocjXrf5CNZsf9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/EZ9kocjXrf5CNZsf9).
