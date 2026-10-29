@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/pristina-kosovo-10-2022/1793218411602-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Prisztiny w Kosowie w październiku 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/YEG7bjF3bZbBQmVu7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/YEG7bjF3bZbBQmVu7).
