@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bieszczany-mountains-poland-05-2019/1793214204084-0-cover.jpg
 ---
-The article describes a trip to Bieszczany Mountains in Poland in May 2019.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/cA7zLiasYB9d7vDaA)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/cA7zLiasYB9d7vDaA).
