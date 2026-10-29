@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/cat-ba-vietnam-03-2020/1793213787884-0-cover.jpg
 ---
-The article describes a trip to Cat Ba in Vietnam in March 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/Yc9BEfP9gtTcw8cX8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/Yc9BEfP9gtTcw8cX8).
