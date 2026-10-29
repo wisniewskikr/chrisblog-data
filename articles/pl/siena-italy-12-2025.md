@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/siena-italy-12-2025/1793219359142-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Sieny we Włoszech w grudniu 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/iBytoZZjhzxBBo2K6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/iBytoZZjhzxBBo2K6).
