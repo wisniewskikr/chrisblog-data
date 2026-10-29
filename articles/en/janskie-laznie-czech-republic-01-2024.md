@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/janskie-laznie-czech-republic-01-2024/1793218652470-0-cover.jpg
 ---
-The article describes a trip to Janskie Laznie in Czech Republic in January 2024.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/1sGsPK6jdaXuVG4JA)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/1sGsPK6jdaXuVG4JA).
