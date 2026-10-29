@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kutaisi-georgia-09-2021/1793212538492-0-cover.jpg
 ---
-The article describes a trip to Kutaisi in Georgia in September 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/S1Kq5XhPT8RpDsKD9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/S1Kq5XhPT8RpDsKD9).
