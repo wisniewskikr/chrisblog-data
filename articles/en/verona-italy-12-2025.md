@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/verona-italy-12-2025/1793219418521-0-cover.jpg
 ---
-The article describes a trip to Verona in Italy in December 2025.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/7LjnUZcvvHAyxFpn9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/7LjnUZcvvHAyxFpn9).
