@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/koper-slovenia-08-2022/1793217534046-0-cover.jpg
 ---
-The article describes a trip to Koper in Slovenia in August 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/63LaRyzYc13yc1cp6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/63LaRyzYc13yc1cp6).
