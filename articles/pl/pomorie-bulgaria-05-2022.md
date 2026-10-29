@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/pomorie-bulgaria-05-2022/1793213827589-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Pomorie w Bułgarii w maju 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/wGSt5eBu1wq6im5y9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/wGSt5eBu1wq6im5y9).
