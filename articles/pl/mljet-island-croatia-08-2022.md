@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/mljet-island-croatia-08-2022/1793217990032-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę na wyspę Mljet w Chorwacji w sierpniu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/ZegEk2dqGJFiPSDDA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/ZegEk2dqGJFiPSDDA).
