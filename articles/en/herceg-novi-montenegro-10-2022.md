@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/herceg-novi-montenegro-10-2022/1793218343919-0-cover.jpg
 ---
-The article describes a trip to Herceg Novi in Montenegro in October 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/YSKonrd6kyvt97ci9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/YSKonrd6kyvt97ci9).
