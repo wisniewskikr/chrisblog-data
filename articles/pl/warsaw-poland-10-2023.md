@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/warsaw-poland-10-2023/1793218640314-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Warszawy w Polsce w październiku 2023.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/v5PKLxnNsJvbjFj7A)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/v5PKLxnNsJvbjFj7A).
