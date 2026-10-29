@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/czestochowa-poland-09-2024/1793219045435-0-cover.jpg
 ---
-The article describes a trip to Czestochowa in Poland in September 2024.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/iUHJAwcXSFPDZ1dv6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/iUHJAwcXSFPDZ1dv6).
