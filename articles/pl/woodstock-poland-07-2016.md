@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/woodstock-poland-07-2016/1793215900977-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę na Woodstock w Polsce w lipcu 2016.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/SqjC9smYPJ7E1pgz7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/SqjC9smYPJ7E1pgz7).
