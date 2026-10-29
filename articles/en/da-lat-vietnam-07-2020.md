@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/da-lat-vietnam-07-2020/1793213721470-0-cover.jpg
 ---
-The article describes a trip to Da Lat in Vietnam in July 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/qCRDbVTZTbFfq5L16)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/qCRDbVTZTbFfq5L16).
