@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/konya-turkey-12-2021/1793211574666-0-cover.jpg
 ---
-The article describes a trip to Konya in Turkey in December 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/MxZjH3dMS7FnpTy76)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/MxZjH3dMS7FnpTy76).
