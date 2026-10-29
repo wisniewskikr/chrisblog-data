@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/rugia-germany-05-2011/1793217754446-0-cover.jpg
 ---
-The article describes a trip to Rugia in Germany in May 2011.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/ngbywNQEDey3ENe26)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/ngbywNQEDey3ENe26).
