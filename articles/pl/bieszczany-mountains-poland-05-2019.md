@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bieszczany-mountains-poland-05-2019/1793214204084-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę w Bieszczady w Polsce w maju 2019.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/cA7zLiasYB9d7vDaA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/cA7zLiasYB9d7vDaA).
