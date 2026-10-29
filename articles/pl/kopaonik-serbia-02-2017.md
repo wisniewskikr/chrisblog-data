@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kopaonik-serbia-02-2017/1793215860148-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę na Kopaonik w Serbii w lutym 2017.
+## Album Google
 
-[Album ze zdjęciami](https://goo.gl/photos/3t69sy7by3JnXSxp7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://goo.gl/photos/3t69sy7by3JnXSxp7).
