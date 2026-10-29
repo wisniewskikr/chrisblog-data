@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/luang-prabang-laos-02-2020/1793213900563-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Luang Prabang w Laosie w lutym 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/T6LJYw9oVG2pWcbi7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/T6LJYw9oVG2pWcbi7).
