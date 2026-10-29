@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bar-montenegro-10-2022/1793218303881-0-cover.jpg
 ---
-The article describes a trip to Bar in Montenegro in October 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/EVaPxzFxD21chD7y7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/EVaPxzFxD21chD7y7).
