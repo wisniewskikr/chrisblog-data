@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/romania-10-2011/1793217818285-0-cover.jpg
 ---
-The article describes a trip to Romania in October 2011.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/5yY4uGGDmxKsaeZC6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/5yY4uGGDmxKsaeZC6).
