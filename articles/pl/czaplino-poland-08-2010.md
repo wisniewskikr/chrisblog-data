@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/czaplino-poland-08-2010/1793218014990-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Czaplina w Polsce w sierpniu 2010.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/u3DVjS7gwm2AeVvh6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/u3DVjS7gwm2AeVvh6).
