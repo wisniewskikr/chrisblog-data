@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/warsaw-poland-01-2011/1793217775905-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Warszawy w Polsce w styczniu 2011.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/PGfmEATT4YrkAWbc9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/PGfmEATT4YrkAWbc9).
