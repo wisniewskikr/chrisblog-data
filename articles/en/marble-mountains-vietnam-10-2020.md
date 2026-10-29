@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/marble-mountains-vietnam-10-2020/1793213639443-0-cover.jpg
 ---
-The article describes a trip to Marble Mountains in Vietnam in October 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/Rp3dQ5xaeiQozMfv6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/Rp3dQ5xaeiQozMfv6).
