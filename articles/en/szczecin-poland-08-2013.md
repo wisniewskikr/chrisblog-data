@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/szczecin-poland-08-2013/1793217612309-0-cover.jpg
 ---
-The article describes a trip to Szczecin in Poland in August 2013.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/gLVDn5PfSQZXTTwb7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/gLVDn5PfSQZXTTwb7).
