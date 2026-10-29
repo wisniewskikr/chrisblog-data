@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/lviv-ukraine-06-2019/1793214193367-0-cover.jpg
 ---
-The article describes a trip to Lviv in Ukraine in June 2019.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/3gpp89dEgNwmoZDu7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/3gpp89dEgNwmoZDu7).
