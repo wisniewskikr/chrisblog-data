@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/florence-italy-12-2025/1793219346498-0-cover.jpg
 ---
-The article describes a trip to Florence in Italy in December 2025.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/H3LNZd6Z4GCgzUQY9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/H3LNZd6Z4GCgzUQY9).
