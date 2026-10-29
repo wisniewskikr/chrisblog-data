@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/sandomierz-poland-10-2026/1793219507024-0-cover.jpg
 ---
-The article describes a trip to Sandomierz in Poland in October 2026.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/mUB8sHMXta2wf5oR6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/mUB8sHMXta2wf5oR6).
