@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zielona-gora-poland-10-2014/1793216115555-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Zielonej Góry w Polsce w październiku 2014.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/FfZveXbubGEjRakm6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/FfZveXbubGEjRakm6).
