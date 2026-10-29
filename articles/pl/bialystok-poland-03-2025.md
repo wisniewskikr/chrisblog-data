@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bialystok-poland-03-2025/1793218811994-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Białegostoku w Polsce w marcu 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/U4kGAfRYnkud733R6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/U4kGAfRYnkud733R6).
