@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/vang-vieng-laos-02-2020/1793213886752-0-cover.jpg
 ---
-The article describes a trip to Vang Vieng in Laos in February 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/92yYUXniDmfmLhbv6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/92yYUXniDmfmLhbv6).
