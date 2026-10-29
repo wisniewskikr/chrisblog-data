@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ba-na-vietnam-10-2020/1793130996137-0-cover.jpg
 ---
-The article describes a trip to Ba Na Sunworld in Vietnam in October 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/rHwxkrs4Y1cPYVox6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/rHwxkrs4Y1cPYVox6).
