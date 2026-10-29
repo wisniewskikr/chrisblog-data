@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/pocitelj-bosnia-and-herzegovina-09-2022/1793218111127-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Počitelja w Bośni i Hercegowinie we wrześniu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/3PTfgYj58Uoir1dT8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/3PTfgYj58Uoir1dT8).
