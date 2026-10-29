@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/berlin-germany-05-2024/1793218725071-0-cover.jpg
 ---
-The article describes a trip to Berlin in Germany in May 2024.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/FjQMAnUhVLfj2idQ7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/FjQMAnUhVLfj2idQ7).
