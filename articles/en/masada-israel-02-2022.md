@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/masada-israel-02-2022/1793211587910-0-cover.jpg
 ---
-The article describes a trip to Masada in Israel in February 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/Q1eenQyWbCC4KKJD7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/Q1eenQyWbCC4KKJD7).
