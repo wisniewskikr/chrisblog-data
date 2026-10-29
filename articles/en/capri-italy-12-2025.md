@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/capri-italy-12-2025/1793218936290-0-cover.jpg
 ---
-The article describes a trip to Capri in Italy in December 2025.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/iVG9DWjgPyAnQ68K8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/iVG9DWjgPyAnQ68K8).
