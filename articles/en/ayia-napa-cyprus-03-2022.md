@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ayia-napa-cyprus-03-2022/1793212653078-0-cover.jpg
 ---
-The article describes a trip to Ayia Napa in Cyprus in March 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/bu5nyLtJGLf3iEhC6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/bu5nyLtJGLf3iEhC6).
