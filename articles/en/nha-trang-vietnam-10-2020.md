@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/nha-trang-vietnam-10-2020/1793213652608-0-cover.jpg
 ---
-The article describes a trip to Nha Trang in Vietnam in October 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/f7jjv39BmrwQkcTM9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/f7jjv39BmrwQkcTM9).
