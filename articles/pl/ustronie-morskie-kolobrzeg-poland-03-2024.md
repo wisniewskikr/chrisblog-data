@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ustronie-morskie-kolobrzeg-poland-03-2024/1793218677492-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Ustronia Morskiego i Kołobrzegu w Polsce w marcu 2024.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/xCEBdmn5FUHadtte6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/xCEBdmn5FUHadtte6).
