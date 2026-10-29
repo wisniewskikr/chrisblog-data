@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/vatican-11-2025/1793218877761-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Watykanu w listopadzie 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/C3nLjREapEUDGyoLA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/C3nLjREapEUDGyoLA).
