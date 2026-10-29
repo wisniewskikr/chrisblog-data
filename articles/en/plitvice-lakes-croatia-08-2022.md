@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/plitvice-lakes-croatia-08-2022/1793217889289-0-cover.jpg
 ---
-The article describes a trip to Plitvice Lakes in Croatia in August 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/8gLDQSUndhvQS41LA)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/8gLDQSUndhvQS41LA).
