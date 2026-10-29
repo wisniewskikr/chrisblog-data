@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/wel-river-poland-08-2016/1793215889678-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę nad rzekę Wel w Polsce w sierpniu 2016.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/nWvrkZzokQdpZ1QM9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/nWvrkZzokQdpZ1QM9).
