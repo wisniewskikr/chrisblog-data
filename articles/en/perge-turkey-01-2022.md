@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/perge-turkey-01-2022/1793211443042-0-cover.jpg
 ---
-The article describes a trip to Perge in Turkey in January 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/YY9tBVCEdfv1iksm7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/YY9tBVCEdfv1iksm7).
