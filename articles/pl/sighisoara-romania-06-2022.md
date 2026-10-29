@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/sighisoara-romania-06-2022/1793215753670-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Sighisoary w Rumunii w czerwcu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/uU4eSEaVCXi5ZmYS9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/uU4eSEaVCXi5ZmYS9).
