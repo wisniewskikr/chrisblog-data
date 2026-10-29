@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/budapest-hungary-10-2016/1793217860742-0-cover.jpg
 ---
-The article describes a trip to Budapest in Hungary in October 2016.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/xZ1d32rfEwpPzfq78)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/xZ1d32rfEwpPzfq78).
