@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/como-lake-italy-12-2025/1793219382669-0-cover.jpg
 ---
-The article describes a trip to Como Lake in Italy in December 2025.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/TP2DTox9z2PpmgfA9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/TP2DTox9z2PpmgfA9).
