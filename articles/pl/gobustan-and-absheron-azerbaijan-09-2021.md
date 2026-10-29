@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/gobustan-and-absheron-azerbaijan-09-2021/1793212479403-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Gobustanu i na Apszeron w Azerbejdżanie we wrześniu 2021.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/v2xpfg1Z6DtxrvgK8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/v2xpfg1Z6DtxrvgK8).
