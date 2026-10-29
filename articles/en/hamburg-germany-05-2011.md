@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/hamburg-germany-05-2011/1793217847164-0-cover.jpg
 ---
-The article describes a trip to Hamburg in Germany in May 2011.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/3yNoF1VSQSftVNdQ7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/3yNoF1VSQSftVNdQ7).
