@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/lindos-rhodes-island-greece-05-2022/1793213542014-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Lindos (wyspa Rodos) w Grecji w maju 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/G1jCYBmv9U3rS6kT9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/G1jCYBmv9U3rS6kT9).
