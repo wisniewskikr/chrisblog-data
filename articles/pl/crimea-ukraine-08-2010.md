@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/crimea-ukraine-08-2010/1793218041273-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę na Krym na Ukrainie w sierpniu 2010.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/VEkbiY6PfEFLkwjB9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/VEkbiY6PfEFLkwjB9).
