@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/da-nang-vietnam-10-2020/1793129328088-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Da Nang w Wietnamie w październiku 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/4rPWjDjKKvbfWB489)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/4rPWjDjKKvbfWB489).
