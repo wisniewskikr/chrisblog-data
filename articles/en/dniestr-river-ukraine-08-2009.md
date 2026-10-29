@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/dniestr-river-ukraine-08-2009/1793218100150-0-cover.jpg
 ---
-The article describes a trip to Dniestr River in Ukraine in August 2009.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/gT5QumNMFuPYpLQ7A)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/gT5QumNMFuPYpLQ7A).
