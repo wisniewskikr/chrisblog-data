@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/berat-albania-11-2022/1793218563643-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Beratu w Albanii w listopadzie 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/k6KVM1paSfH2eavy6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/k6KVM1paSfH2eavy6).
