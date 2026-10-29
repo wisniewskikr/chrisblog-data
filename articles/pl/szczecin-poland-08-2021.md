@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/szczecin-poland-08-2021/1793215994859-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Szczecina w Polsce w sierpniu 2021.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/xB4P9qbuR6yDePmJ7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/xB4P9qbuR6yDePmJ7).
