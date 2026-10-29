@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/brasov-romania-06-2022/1793215680781-0-cover.jpg
 ---
-The article describes a trip to Brasov in Romania in June 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/sir55u2ejfs14Sqn9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/sir55u2ejfs14Sqn9).
