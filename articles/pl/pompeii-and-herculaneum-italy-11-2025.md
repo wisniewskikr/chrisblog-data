@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/pompeii-and-herculaneum-italy-11-2025/1793218903394-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Pompejów i Herkulanum we Włoszech w listopadzie 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/RtPQRUXdsgX5pFac8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/RtPQRUXdsgX5pFac8).
