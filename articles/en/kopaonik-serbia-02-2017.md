@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kopaonik-serbia-02-2017/1793215860148-0-cover.jpg
 ---
-The article describes a trip to Kopaonik in Serbia in February 2017.
+## Google Album
 
-[Photo album](https://goo.gl/photos/3t69sy7by3JnXSxp7)
+Pictures from this area you can find in my [Google Album](https://goo.gl/photos/3t69sy7by3JnXSxp7).
