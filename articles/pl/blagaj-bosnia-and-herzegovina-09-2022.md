@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/blagaj-bosnia-and-herzegovina-09-2022/1793218087623-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Blagaju w Bośni i Hercegowinie we wrześniu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/dXDZ8Keumm2GM4yQ9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/dXDZ8Keumm2GM4yQ9).
