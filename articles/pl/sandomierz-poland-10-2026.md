@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/sandomierz-poland-10-2026/1793219507024-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Sandomierza w Polsce w październiku 2026.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/mUB8sHMXta2wf5oR6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/mUB8sHMXta2wf5oR6).
