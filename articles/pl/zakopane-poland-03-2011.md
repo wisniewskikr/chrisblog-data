@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zakopane-poland-03-2011/1793217765272-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Zakopanego w Polsce w marcu 2011.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/jztHX8WMRq9z4X1RA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/jztHX8WMRq9z4X1RA).
