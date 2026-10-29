@@ -12,6 +12,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/uzbekistan-and-kazakhstan-11-2018/1793215658247-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Uzbekistanu i Kazachstanu w listopadzie 2018.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/8VcHUoHvoQJauLrT6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/8VcHUoHvoQJauLrT6).
