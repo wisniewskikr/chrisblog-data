@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kazbegi-georgia-08-2021/1793212603230-0-cover.jpg
 ---
-The article describes a trip to Kazbegi in Georgia in August 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/WfZ6KSfG8eTs19946)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/WfZ6KSfG8eTs19946).
