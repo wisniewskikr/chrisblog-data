@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/pellizzano-italy-12-2017/1793215768093-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Pellizzano we Włoszech w grudniu 2017.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/zqraNP86PYKcGCMg1)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/zqraNP86PYKcGCMg1).
