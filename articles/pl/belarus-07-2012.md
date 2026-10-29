@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/belarus-07-2012/1793217740774-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę na Białoruś w lipcu 2012.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/D9tZe1UnajGXqPoc6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/D9tZe1UnajGXqPoc6).
