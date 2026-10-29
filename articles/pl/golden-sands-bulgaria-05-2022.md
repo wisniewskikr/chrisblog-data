@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/golden-sands-bulgaria-05-2022/1793213694071-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Złotych Piasków w Bułgarii w maju 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/goUHXFKTciXvNtWs6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/goUHXFKTciXvNtWs6).
