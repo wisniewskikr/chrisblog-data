@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/baku-azerbaijan-09-2021/1793212466351-0-cover.jpg
 ---
-The article describes a trip to Baku in Azerbaijan in September 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/6SALrHhqtkFQrSnQ6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/6SALrHhqtkFQrSnQ6).
