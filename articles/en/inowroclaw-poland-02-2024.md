@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/inowroclaw-poland-02-2024/1793218664758-0-cover.jpg
 ---
-The article describes a trip to Inowroclaw in Poland in February 2024.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/3fRTW2aZMZ1HKQ9V6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/3fRTW2aZMZ1HKQ9V6).
