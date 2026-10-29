@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/jelenia-gora-poland-08-2025/1793219097819-0-cover.jpg
 ---
-The article describes a trip to Jelenia Gora in Poland in August 2025.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/k6K4h947MvXk2b2S6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/k6K4h947MvXk2b2S6).
