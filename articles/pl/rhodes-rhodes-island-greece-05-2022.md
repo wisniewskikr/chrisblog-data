@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/rhodes-rhodes-island-greece-05-2022/1793212746513-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Rodos (wyspa Rodos) w Grecji w maju 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/juGmd9FjZJ3Mue1cA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/juGmd9FjZJ3Mue1cA).
