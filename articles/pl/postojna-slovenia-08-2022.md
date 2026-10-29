@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/postojna-slovenia-08-2022/1793217506088-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Postojnej w Słowenii w sierpniu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/emd7ungcpZv7RXcb7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/emd7ungcpZv7RXcb7).
