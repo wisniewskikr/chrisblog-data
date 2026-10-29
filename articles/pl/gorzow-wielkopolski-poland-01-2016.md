@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/gorzow-wielkopolski-poland-01-2016/1793215962845-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Gorzowa Wielkopolskiego w Polsce w styczniu 2016.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/nPtaJ6poGB8yimsJ8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/nPtaJ6poGB8yimsJ8).
