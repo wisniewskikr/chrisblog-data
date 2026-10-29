@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bukowel-ukraine-02-2013/1793217703104-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Bukowela na Ukrainie w lutym 2013.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/z8i9mG3NFiXUzcA27)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/z8i9mG3NFiXUzcA27).
