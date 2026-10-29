@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/warsaw-poland-10-2023/1793218640314-0-cover.jpg
 ---
-The article describes a trip to Warsaw in Poland in October 2023.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/v5PKLxnNsJvbjFj7A)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/v5PKLxnNsJvbjFj7A).
