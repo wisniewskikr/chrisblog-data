@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/antalya-turkey-01-2022/1793129429404-0-cover.jpg
 ---
-The article describes a trip to Antalya in Turkey in January 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/kBA9JmgGyXnX7faNA)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/kBA9JmgGyXnX7faNA).
