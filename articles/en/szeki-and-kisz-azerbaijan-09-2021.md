@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/szeki-and-kisz-azerbaijan-09-2021/1793212492492-0-cover.jpg
 ---
-The article describes a trip to Szeki and Kisz in Azerbaijan in September 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/2kAZJWGrw5AtiVgK6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/2kAZJWGrw5AtiVgK6).
