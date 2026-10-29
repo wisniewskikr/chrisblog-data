@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/can-tho-vietnam-07-2020/1793213734900-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Can Tho w Wietnamie w lipcu 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/EZ9kocjXrf5CNZsf9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/EZ9kocjXrf5CNZsf9).
