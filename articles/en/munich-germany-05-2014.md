@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/munich-germany-05-2014/1793216189865-0-cover.jpg
 ---
-The article describes a trip to Munich in Germany in May 2014.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/1LL4uuiQ2JpREPks9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/1LL4uuiQ2JpREPks9).
