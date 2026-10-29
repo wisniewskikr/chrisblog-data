@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/janskie-laznie-czech-republic-02-2026/1793219454662-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Janskich Łaźni w Czechach w lutym 2026.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/rovPMTrKayTKFekQ7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/rovPMTrKayTKFekQ7).
