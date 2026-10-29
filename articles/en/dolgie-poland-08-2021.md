@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/dolgie-poland-08-2021/1793215984672-0-cover.jpg
 ---
-The article describes a trip to Dolgie in Poland in August 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/LZdHhH6VfaodmfuB7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/LZdHhH6VfaodmfuB7).
