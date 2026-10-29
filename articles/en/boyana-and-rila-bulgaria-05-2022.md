@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/boyana-and-rila-bulgaria-05-2022/1793213598218-0-cover.jpg
 ---
-The article describes a trip to Boyana and Rila in Bulgaria in May 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/hZvQevs8qwgNmgc37)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/hZvQevs8qwgNmgc37).
