@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/venice-italy-11-2025/1793218861899-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Wenecji we Włoszech w listopadzie 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/qMGjF6jUq9aYq8oS6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/qMGjF6jUq9aYq8oS6).
