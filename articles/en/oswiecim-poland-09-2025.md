@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/oswiecim-poland-09-2025/1793219175515-0-cover.jpg
 ---
-The article describes a trip to Oswiecim in Poland in September 2025.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/mayGSrh2DPkm8cJG9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/mayGSrh2DPkm8cJG9).
