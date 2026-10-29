@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zagreb-croatia-08-2022/1793217653742-0-cover.jpg
 ---
-The article describes a trip to Zagreb in Croatia in August 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/1nuWAiDeHzMNe2cf6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/1nuWAiDeHzMNe2cf6).
