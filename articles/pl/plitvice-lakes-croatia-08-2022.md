@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/plitvice-lakes-croatia-08-2022/1793217889289-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę nad Jeziora Plitwickie w Chorwacji w sierpniu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/8gLDQSUndhvQS41LA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/8gLDQSUndhvQS41LA).
