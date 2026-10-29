@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/poznan-poland-12-2019/1793217914670-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Poznania w Polsce w grudniu 2019.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/ttrpfjya5yCxk4km6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/ttrpfjya5yCxk4km6).
