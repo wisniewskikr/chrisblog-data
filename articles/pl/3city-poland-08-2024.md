@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/3city-poland-08-2024/1793219022529-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Trójmiasta w Polsce w sierpniu 2024.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/oYHx7nZpvnMuwQuS9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/oYHx7nZpvnMuwQuS9).
