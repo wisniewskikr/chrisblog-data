@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/jarocin-poland-07-2013/1793217641183-0-cover.jpg
 ---
-The article describes a trip to Jarocin in Poland in July 2013.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/QA8oKPvRdKYWeSAG6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/QA8oKPvRdKYWeSAG6).
