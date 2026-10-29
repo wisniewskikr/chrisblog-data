@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/phu-quoc-vietnam-05-2020/1793213774587-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Phu Quoc w Wietnamie w maju 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/XEJhZGd29tPCSk1E8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/XEJhZGd29tPCSk1E8).
