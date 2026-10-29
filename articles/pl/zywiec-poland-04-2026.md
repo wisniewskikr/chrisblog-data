@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zywiec-poland-04-2026/1793219310682-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Żywca w Polsce w kwietniu 2026.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/cUs65tQHnTbMirzr9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/cUs65tQHnTbMirzr9).
