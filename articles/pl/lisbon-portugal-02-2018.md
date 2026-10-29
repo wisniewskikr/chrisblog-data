@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/lisbon-portugal-02-2018/1793215742839-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Lizbony w Portugalii w lutym 2018.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/yx5w8zdDlqTDMiDh2)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/yx5w8zdDlqTDMiDh2).
