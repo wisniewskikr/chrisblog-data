@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/piran-slovenia-08-2022/1793217547439-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Piranu w Słowenii w sierpniu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/FoXB1ETmxFvNucWe7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/FoXB1ETmxFvNucWe7).
