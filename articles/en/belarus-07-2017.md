@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/belarus-07-2017/1793215821267-0-cover.jpg
 ---
-The article describes a trip to Belarus in July 2017.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/EOmMxNrmVcO6UE2u1)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/EOmMxNrmVcO6UE2u1).
