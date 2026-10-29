@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/skadar-lake-montenegro-10-2022/1793218291354-0-cover.jpg
 ---
-The article describes a trip to Skadar Lake in Montenegro in October 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/rhvsqh7dST4Uj4zN8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/rhvsqh7dST4Uj4zN8).
