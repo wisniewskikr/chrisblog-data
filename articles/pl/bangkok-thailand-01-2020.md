@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bangkok-thailand-01-2020/1793214067127-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Bangkoku w Tajlandii w styczniu 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/zGEeGn9NyBhAjTtx7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/zGEeGn9NyBhAjTtx7).
