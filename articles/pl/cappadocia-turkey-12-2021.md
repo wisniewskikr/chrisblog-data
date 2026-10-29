@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/cappadocia-turkey-12-2021/1793211546515-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Kapadocji w Turcji w grudniu 2021.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/MHLRxAW6mUJQXjYT8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/MHLRxAW6mUJQXjYT8).
