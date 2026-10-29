@@ -13,6 +13,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/romania-moldova-and-ukraine-08-2012/1793217728932-0-cover.jpg
 ---
-The article describes a trip to Romania, Moldova and Ukraine in August 2012.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/FKm7nqtnZhMvc53CA)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/FKm7nqtnZhMvc53CA).
