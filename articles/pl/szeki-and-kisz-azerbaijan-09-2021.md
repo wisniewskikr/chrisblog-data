@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/szeki-and-kisz-azerbaijan-09-2021/1793212492492-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Szeki i Kisz w Azerbejdżanie we wrześniu 2021.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/2kAZJWGrw5AtiVgK6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/2kAZJWGrw5AtiVgK6).
