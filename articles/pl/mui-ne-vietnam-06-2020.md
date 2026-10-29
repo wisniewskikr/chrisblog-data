@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/mui-ne-vietnam-06-2020/1793213761287-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Mui Ne w Wietnamie w czerwcu 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/sJazJe4ZYUY4suGs6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/sJazJe4ZYUY4suGs6).
