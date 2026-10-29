@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/gorzow-wielkopolski-poland-01-2016/1793215962845-0-cover.jpg
 ---
-The article describes a trip to Gorzow Wielkopolski in Poland in January 2016.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/nPtaJ6poGB8yimsJ8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/nPtaJ6poGB8yimsJ8).
