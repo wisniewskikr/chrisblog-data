@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ein-gedi-israel-02-2022/1793212369831-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Ein Gedi w Izraelu w lutym 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/Zh8WFMH4AUCh6jU16)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/Zh8WFMH4AUCh6jU16).
