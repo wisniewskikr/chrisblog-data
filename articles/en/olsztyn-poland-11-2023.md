@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/olsztyn-poland-11-2023/1793218627540-0-cover.jpg
 ---
-The article describes a trip to Olsztyn in Poland in November 2023.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/rgDVKXcdPcpehY467)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/rgDVKXcdPcpehY467).
