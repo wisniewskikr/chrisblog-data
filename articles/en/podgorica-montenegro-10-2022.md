@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/podgorica-montenegro-10-2022/1793218317280-0-cover.jpg
 ---
-The article describes a trip to Podgorica in Montenegro in October 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/cZyqDqfSwfNtLPig6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/cZyqDqfSwfNtLPig6).
