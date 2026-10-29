@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/lithuania-08-2007/1793218173508-0-cover.jpg
 ---
-The article describes a trip to Lithuania in August 2007.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/vrLbhUjGZ5ZhqTRE9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/vrLbhUjGZ5ZhqTRE9).
