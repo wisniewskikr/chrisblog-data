@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/tarnowskie-gory-poland-04-2026/1793219285623-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Tarnowskich Gór w Polsce w kwietniu 2026.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/dEHjsuQQuaSDzBPR7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/dEHjsuQQuaSDzBPR7).
