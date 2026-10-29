@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bethlehem-palestine-02-2022/1793211512751-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Betlejem w Palestynie w lutym 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/s3178xyj8ZXavde47)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/s3178xyj8ZXavde47).
