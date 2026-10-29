@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/dubrovnik-croatia-08-2022/1793218002666-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Dubrownika w Chorwacji w sierpniu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/k4R7A2LSA4PuHH1i9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/k4R7A2LSA4PuHH1i9).
