@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/lviv-ukraine-01-2016/1793215973986-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Lwowa na Ukrainie w styczniu 2016.
+## Album Google
 
-[Album ze zdjęciami](https://goo.gl/photos/fS1oNCogPUgLdgvx5)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://goo.gl/photos/fS1oNCogPUgLdgvx5).
