@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/szczecinek-borne-sulinowo-poland-09-2025/1793219194755-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Szczecinka i Bornego Sulinowa w Polsce we wrześniu 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/jHsihEdQjj5fEhJb8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/jHsihEdQjj5fEhJb8).
