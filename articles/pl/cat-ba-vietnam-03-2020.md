@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/cat-ba-vietnam-03-2020/1793213787884-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Cat Ba w Wietnamie w marcu 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/Yc9BEfP9gtTcw8cX8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/Yc9BEfP9gtTcw8cX8).
