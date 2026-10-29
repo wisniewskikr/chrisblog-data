@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/innsbruck-austria-02-2010/1793218065028-0-cover.jpg
 ---
-The article describes a trip to Innsbruck in Austria in February 2010.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/j4LWdGQbJSKc23zHA)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/j4LWdGQbJSKc23zHA).
