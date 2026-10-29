@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/vienna-austria-11-2025/1793218849438-0-cover.jpg
 ---
-The article describes a trip to Vienna in Austria in November 2025.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/8LvR5wUEmhFAzEmq8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/8LvR5wUEmhFAzEmq8).
