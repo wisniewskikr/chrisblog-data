@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/czarna-gora-poland-03-2019/1793214227399-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Czarnej Góry w Polsce w marcu 2019.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/7UUx2ymcLmcG6yNC6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/7UUx2ymcLmcG6yNC6).
