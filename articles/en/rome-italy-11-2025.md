@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/rome-italy-11-2025/1793218890742-0-cover.jpg
 ---
-The article describes a trip to Rome in Italy in November 2025.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/UU5R8pPnuBAUWDrH8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/UU5R8pPnuBAUWDrH8).
