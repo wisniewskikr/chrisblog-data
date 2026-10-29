@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/sarajevo-bosnia-and-herzegovina-09-2022/1793218188751-0-cover.jpg
 ---
-The article describes a trip to Sarajevo in Bosnia and Herzegovina in September 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/s6gf81jZtPESTgdC7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/s6gf81jZtPESTgdC7).
