@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ketrzyn-wilczy-szaniec-poland-11-2024/1793219086003-0-cover.jpg
 ---
-The article describes a trip to Ketrzyn & Wilczy Szaniec in Poland in November 2024.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/gMqayQDzffQBhB5WA)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/gMqayQDzffQBhB5WA).
