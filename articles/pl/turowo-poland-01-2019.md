@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/turowo-poland-01-2019/1793215628478-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Turowa w Polsce w styczniu 2019.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/SW2Rcm3eieQmDBPu5)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/SW2Rcm3eieQmDBPu5).
