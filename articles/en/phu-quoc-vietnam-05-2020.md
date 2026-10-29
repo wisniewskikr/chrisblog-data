@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/phu-quoc-vietnam-05-2020/1793213774587-0-cover.jpg
 ---
-The article describes a trip to Phu Quoc in Vietnam in May 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/XEJhZGd29tPCSk1E8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/XEJhZGd29tPCSk1E8).
