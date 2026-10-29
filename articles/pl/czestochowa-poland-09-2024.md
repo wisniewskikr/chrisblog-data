@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/czestochowa-poland-09-2024/1793219045435-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Częstochowy w Polsce we wrześniu 2024.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/iUHJAwcXSFPDZ1dv6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/iUHJAwcXSFPDZ1dv6).
