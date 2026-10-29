@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/starogard-gdanski-and-elk-poland-07-2019/1793214164830-0-cover.jpg
 ---
-The article describes a trip to Starogard Gdanski and Elk in Poland in July 2019.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/d9DcFteoMFLjK6Ss7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/d9DcFteoMFLjK6Ss7).
