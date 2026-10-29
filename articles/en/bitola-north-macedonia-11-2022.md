@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bitola-north-macedonia-11-2022/1793218510540-0-cover.jpg
 ---
-The article describes a trip to Bitola in North Macedonia in November 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/kKbrQ1ZKAFPVcWpX7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/kKbrQ1ZKAFPVcWpX7).
