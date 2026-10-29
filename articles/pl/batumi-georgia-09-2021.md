@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/batumi-georgia-09-2021/1793212564221-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Batumi w Gruzji we wrześniu 2021.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/6zRexg5hyMGZLej88)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/6zRexg5hyMGZLej88).
