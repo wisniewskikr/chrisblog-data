@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/sibenik-croatia-08-2022/1793217964535-0-cover.jpg
 ---
-The article describes a trip to Sibenik in Croatia in August 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/wWGGJYqL3yayiycd7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/wWGGJYqL3yayiycd7).
