@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zakopane-poland-09-2025/1793219219514-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Zakopanego w Polsce we wrześniu 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/LYAGrNwZPYxreKLF9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/LYAGrNwZPYxreKLF9).
