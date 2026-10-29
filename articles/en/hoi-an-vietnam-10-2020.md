@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/hoi-an-vietnam-10-2020/1793213624933-0-cover.jpg
 ---
-The article describes a trip to Hoi An in Vietnam in October 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/3hWufJk7B9y635Rz8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/3hWufJk7B9y635Rz8).
