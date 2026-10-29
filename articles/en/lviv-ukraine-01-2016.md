@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/lviv-ukraine-01-2016/1793215973986-0-cover.jpg
 ---
-The article describes a trip to Lviv in Ukraine in January 2016.
+## Google Album
 
-[Photo album](https://goo.gl/photos/fS1oNCogPUgLdgvx5)
+Pictures from this area you can find in my [Google Album](https://goo.gl/photos/fS1oNCogPUgLdgvx5).
