@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bialowieza-poland-03-2025/1793218824830-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Białowieży w Polsce w marcu 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/6GCnourPAvxJY31Q8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/6GCnourPAvxJY31Q8).
