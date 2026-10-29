@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bratislava-slovakia-11-2019/1793214151543-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Bratysławy na Słowacji w listopadzie 2019.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/pBUpgsyej69sFYsv5)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/pBUpgsyej69sFYsv5).
