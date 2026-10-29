@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bologna-italy-12-2025/1793219370753-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Bolonii we Włoszech w grudniu 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/23Nb7CQSWiHK756Y7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/23Nb7CQSWiHK756Y7).
