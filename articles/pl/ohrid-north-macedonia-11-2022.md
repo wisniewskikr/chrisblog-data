@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ohrid-north-macedonia-11-2022/1793218477835-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Ochrydy w Macedonii Północnej w listopadzie 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/mTsDZmR7pBkEEdPu6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/mTsDZmR7pBkEEdPu6).
