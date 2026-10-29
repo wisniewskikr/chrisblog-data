@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bratislava-slovakia-11-2019/1793214151543-0-cover.jpg
 ---
-The article describes a trip to Bratislava in Slovakia in November 2019.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/pBUpgsyej69sFYsv5)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/pBUpgsyej69sFYsv5).
