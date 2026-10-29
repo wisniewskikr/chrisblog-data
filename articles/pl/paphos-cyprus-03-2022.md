@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/paphos-cyprus-03-2022/1793212525402-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Pafos na Cyprze w marcu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/zidhAprPy1exdQs58)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/zidhAprPy1exdQs58).
