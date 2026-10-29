@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kopciowo-lithuania-03-2018/1793215670528-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Kopciowa na Litwie w maju 2018.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/sMjoIApnVleTg7RS2)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/sMjoIApnVleTg7RS2).
