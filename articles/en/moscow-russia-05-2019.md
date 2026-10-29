@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/moscow-russia-05-2019/1793214216388-0-cover.jpg
 ---
-The article describes a trip to Moscow in Russia in May 2019.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/wyuQgTDZGv8bpqtn9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/wyuQgTDZGv8bpqtn9).
