@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kapong-thom-cambodia-02-2020/1793213970721-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Kapong Thom w Kambodży w lutym 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/dnatfD6t7UJb7HPF7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/dnatfD6t7UJb7HPF7).
