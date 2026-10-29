@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ko-chang-thailand-01-2020/1793214012623-0-cover.jpg
 ---
-The article describes a trip to Ko Chang in Thailand in January 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/a5Ms3osZd6wNHPVQ6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/a5Ms3osZd6wNHPVQ6).
