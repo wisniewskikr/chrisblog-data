@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/dolgie-poland-08-2021/1793215984672-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do miejscowości Dolgie w Polsce w sierpniu 2021.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/LZdHhH6VfaodmfuB7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/LZdHhH6VfaodmfuB7).
