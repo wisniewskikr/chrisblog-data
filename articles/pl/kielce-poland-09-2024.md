@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kielce-poland-09-2024/1793219060746-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Kielc w Polsce we wrześniu 2024.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/6LGz5y9H93WQEAYd8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/6LGz5y9H93WQEAYd8).
