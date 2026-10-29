@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/tel-aviv-jaffa-israel-02-2022/1793129374863-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Tel Awiwu - Jafy w Izraelu w lutym 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/p9rcRU1qCYLFww2W7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/p9rcRU1qCYLFww2W7).
