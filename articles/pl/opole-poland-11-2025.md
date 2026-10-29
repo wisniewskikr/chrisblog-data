@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/opole-poland-11-2025/1793219247529-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Opola w Polsce w listopadzie 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/LbLQFc8B9njCjE8DA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/LbLQFc8B9njCjE8DA).
