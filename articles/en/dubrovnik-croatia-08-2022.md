@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/dubrovnik-croatia-08-2022/1793218002666-0-cover.jpg
 ---
-The article describes a trip to Dubrovnik in Croatia in August 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/k4R7A2LSA4PuHH1i9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/k4R7A2LSA4PuHH1i9).
