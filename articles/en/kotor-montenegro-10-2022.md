@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kotor-montenegro-10-2022/1793218330539-0-cover.jpg
 ---
-The article describes a trip to Kotor in Montenegro in October 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/W2WbQqHyCW7tGr539)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/W2WbQqHyCW7tGr539).
