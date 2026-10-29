@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/skadar-lake-montenegro-10-2022/1793218291354-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę nad Jezioro Szkoderskie w Czarnogórze w październiku 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/rhvsqh7dST4Uj4zN8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/rhvsqh7dST4Uj4zN8).
