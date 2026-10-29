@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/khao-yai-thailand-01-2020/1793214038931-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Khao Yai w Tajlandii w styczniu 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/EyonFEjyMjgATerPA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/EyonFEjyMjgATerPA).
