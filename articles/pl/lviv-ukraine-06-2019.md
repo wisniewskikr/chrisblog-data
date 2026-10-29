@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/lviv-ukraine-06-2019/1793214193367-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Lwowa na Ukrainie w czerwcu 2019.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/3gpp89dEgNwmoZDu7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/3gpp89dEgNwmoZDu7).
