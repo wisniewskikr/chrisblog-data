@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kayaking-poland-05-2024/1793218711619-0-cover.jpg
 ---
-Artykuł opisuje spływ kajakowy w Polsce w maju 2024.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/vpff54ZxzjxoiEFv5)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/vpff54ZxzjxoiEFv5).
