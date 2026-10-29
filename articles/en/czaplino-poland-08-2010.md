@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/czaplino-poland-08-2010/1793218014990-0-cover.jpg
 ---
-The article describes a trip to Czaplino in Poland in August 2010.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/u3DVjS7gwm2AeVvh6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/u3DVjS7gwm2AeVvh6).
