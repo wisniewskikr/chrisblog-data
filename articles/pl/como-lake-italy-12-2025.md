@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/como-lake-italy-12-2025/1793219382669-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę nad jezioro Como we Włoszech w grudniu 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/TP2DTox9z2PpmgfA9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/TP2DTox9z2PpmgfA9).
