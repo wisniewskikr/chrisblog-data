@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ketrzyn-wilczy-szaniec-poland-11-2024/1793219086003-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Kętrzyna i Wilczego Szańca w Polsce w listopadzie 2024.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/gMqayQDzffQBhB5WA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/gMqayQDzffQBhB5WA).
