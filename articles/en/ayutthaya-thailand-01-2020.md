@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ayutthaya-thailand-01-2020/1793214122799-0-cover.jpg
 ---
-The article describes a trip to Ayutthaya in Thailand in January 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/9GuNBbW449B3gi388)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/9GuNBbW449B3gi388).
