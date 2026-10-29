@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/hanoi-vietnam-03-2020/1793213801523-0-cover.jpg
 ---
-The article describes a trip to Hanoi in Vietnam in March 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/e8amLf4bNH5XDnWf7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/e8amLf4bNH5XDnWf7).
