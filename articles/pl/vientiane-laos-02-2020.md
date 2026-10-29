@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/vientiane-laos-02-2020/1793213844718-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Wientianu w Laosie w lutym 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/Th5YPbXhachx73Qr6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/Th5YPbXhachx73Qr6).
