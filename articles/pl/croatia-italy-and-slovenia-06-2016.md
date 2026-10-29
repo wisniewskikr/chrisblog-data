@@ -12,6 +12,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/croatia-italy-and-slovenia-06-2016/1793215915772-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Chorwacji, Włoch i Słowenii w czerwcu 2016.
+## Album Google
 
-[Album ze zdjęciami](https://goo.gl/photos/QydMxUNsnWPZkmZE8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://goo.gl/photos/QydMxUNsnWPZkmZE8).
