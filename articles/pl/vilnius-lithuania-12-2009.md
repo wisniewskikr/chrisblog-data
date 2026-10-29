@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/vilnius-lithuania-12-2009/1793218076009-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Wilna na Litwie w grudniu 2009.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/FzQeYmjYaXSSCdMt7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/FzQeYmjYaXSSCdMt7).
