@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/gudowo-poland-06-2014/1793216152194-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Gudowa w Polsce w czerwcu 2014.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/Uk1KWUqjs6yVtAGZ6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/Uk1KWUqjs6yVtAGZ6).
