@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/nicosia-cyprus-03-2022/1793212666485-0-cover.jpg
 ---
-The article describes a trip to Nicosia in Cyprus in March 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/oGUdUztAvqQCueSo7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/oGUdUztAvqQCueSo7).
