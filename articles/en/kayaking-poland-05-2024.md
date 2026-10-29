@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kayaking-poland-05-2024/1793218711619-0-cover.jpg
 ---
-The article describes kayaking in Poland in May 2024.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/vpff54ZxzjxoiEFv5)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/vpff54ZxzjxoiEFv5).
