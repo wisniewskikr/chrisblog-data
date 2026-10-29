@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/gdansk-poland-09-2025/1793219135755-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Gdańska w Polsce we wrześniu 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/6zraDQB1wKBFvE2U7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/6zraDQB1wKBFvE2U7).
