@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/efez-turkey-02-2022/1793129391723-0-cover.jpg
 ---
-The article describes a trip to Efez in Turkey in February 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/cT1UmKLQFn8Dk9eS6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/cT1UmKLQFn8Dk9eS6).
