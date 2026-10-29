@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/tarnowskie-gory-poland-04-2026/1793219285623-0-cover.jpg
 ---
-The article describes a trip to Tarnowskie Gory in Poland in April 2026.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/dEHjsuQQuaSDzBPR7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/dEHjsuQQuaSDzBPR7).
