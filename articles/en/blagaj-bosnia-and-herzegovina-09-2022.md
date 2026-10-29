@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/blagaj-bosnia-and-herzegovina-09-2022/1793218087623-0-cover.jpg
 ---
-The article describes a trip to Blagaj in Bosnia and Herzegovina in September 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/dXDZ8Keumm2GM4yQ9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/dXDZ8Keumm2GM4yQ9).
