@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/prilep-north-macedonia-11-2022/1793218490657-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Prilepu w Macedonii Północnej w listopadzie 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/yztjcVabEGV6TPrBA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/yztjcVabEGV6TPrBA).
