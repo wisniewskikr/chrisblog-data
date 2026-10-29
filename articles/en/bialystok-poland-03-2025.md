@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bialystok-poland-03-2025/1793218811994-0-cover.jpg
 ---
-The article describes a trip to Bialystok in Poland in March 2025.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/U4kGAfRYnkud733R6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/U4kGAfRYnkud733R6).
