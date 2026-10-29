@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/olsztyn-poland-04-2024/1793218973451-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Olsztyna w Polsce w kwietniu 2024.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/6oxjEighgQzkHuYR9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/6oxjEighgQzkHuYR9).
