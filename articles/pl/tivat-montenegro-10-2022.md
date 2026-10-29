@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/tivat-montenegro-10-2022/1793218398707-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Tivatu w Czarnogórze w październiku 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/nrsh7Cz8wJmu94fj9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/nrsh7Cz8wJmu94fj9).
