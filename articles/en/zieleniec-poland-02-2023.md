@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zieleniec-poland-02-2023/1793218603857-0-cover.jpg
 ---
-The article describes a trip to Zieleniec in Poland in February 2023.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/efQyq5go5gokppwZ9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/efQyq5go5gokppwZ9).
