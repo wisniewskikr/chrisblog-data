@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/hvar-island-croatia-08-2022/1793217928399-0-cover.jpg
 ---
-The article describes a trip to Hvar Island in Croatia in August 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/tmszhhKdS7DXQZ8S9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/tmszhhKdS7DXQZ8S9).
