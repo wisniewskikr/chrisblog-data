@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/gran-canaria-spain-01-2017/1793215873732-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę na Gran Canarię w Hiszpanii w styczniu 2017.
+## Album Google
 
-[Album ze zdjęciami](https://goo.gl/photos/cdWwoVAaUo4vZ1Vy8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://goo.gl/photos/cdWwoVAaUo4vZ1Vy8).
