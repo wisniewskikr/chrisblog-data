@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/aspendos-turkey-01-2022/1793211483332-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Aspendos w Turcji w styczniu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/Pv8cK268TNihEjvs7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/Pv8cK268TNihEjvs7).
