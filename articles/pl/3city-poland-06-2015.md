@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/3city-poland-06-2015/1793216066359-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Trójmiasta w Polsce w czerwcu 2015.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/griSYArLKqRgn8ww9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/griSYArLKqRgn8ww9).
