@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/efez-turkey-02-2022/1793129391723-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Efezu w Turcji w lutym 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/cT1UmKLQFn8Dk9eS6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/cT1UmKLQFn8Dk9eS6).
