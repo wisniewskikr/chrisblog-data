@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/tomaszow-mazowiecki-poland-08-2025/1793219124085-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Tomaszowa Mazowieckiego w Polsce w sierpniu 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/AfaobbBXdZGzrtqF9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/AfaobbBXdZGzrtqF9).
