@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/gniezno-poland-08-2013/1793217630187-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Gniezna w Polsce w sierpniu 2013.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/turEcXDVRv2sPFmQ9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/turEcXDVRv2sPFmQ9).
