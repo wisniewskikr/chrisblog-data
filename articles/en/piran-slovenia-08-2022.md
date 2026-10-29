@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/piran-slovenia-08-2022/1793217547439-0-cover.jpg
 ---
-The article describes a trip to Piran in Slovenia in August 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/FoXB1ETmxFvNucWe7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/FoXB1ETmxFvNucWe7).
