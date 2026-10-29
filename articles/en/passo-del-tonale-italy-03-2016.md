@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/passo-del-tonale-italy-03-2016/1793215951889-0-cover.jpg
 ---
-The article describes a trip to Passo del Tonale in Italy in March 2016.
+## Google Album
 
-[Photo album](https://goo.gl/photos/iG9CcW1HoJHeoggE9)
+Pictures from this area you can find in my [Google Album](https://goo.gl/photos/iG9CcW1HoJHeoggE9).
