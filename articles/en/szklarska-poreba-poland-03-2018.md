@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/szklarska-poreba-poland-03-2018/1793215692984-0-cover.jpg
 ---
-The article describes a trip to Szklarska Poreba in Poland in May 2018.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/alsajMTFYouGSd5T2)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/alsajMTFYouGSd5T2).
