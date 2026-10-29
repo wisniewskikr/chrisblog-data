@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/cinque-terre-italy-12-2025/1793296729035-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Cinque Terre we Włoszech w grudniu 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/8P75VsUZrJy5MuWx7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/8P75VsUZrJy5MuWx7).
