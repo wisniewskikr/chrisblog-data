@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/szczecin-poland-08-2021/1793215994859-0-cover.jpg
 ---
-The article describes a trip to Szczecin in Poland in August 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/xB4P9qbuR6yDePmJ7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/xB4P9qbuR6yDePmJ7).
