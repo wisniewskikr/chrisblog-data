@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/olsztyn-poland-09-2014/1793216126621-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Olsztyna w Polsce we wrześniu 2014.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/f7gQaH5JQQjTbywUA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/f7gQaH5JQQjTbywUA).
