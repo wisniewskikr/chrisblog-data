@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/krakow-poland-03-2015/1793216077605-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Krakowa w Polsce w maju 2015.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/zrjnayX7HAzji1GD9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/zrjnayX7HAzji1GD9).
