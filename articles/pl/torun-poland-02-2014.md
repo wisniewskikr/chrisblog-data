@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/torun-poland-02-2014/1793216212183-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Torunia w Polsce w lutym 2014.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/uzVbetVoi1fXuRpX9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/uzVbetVoi1fXuRpX9).
