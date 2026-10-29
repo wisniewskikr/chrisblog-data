@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/hoi-an-vietnam-10-2020/1793213624933-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Hoi An w Wietnamie w październiku 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/3hWufJk7B9y635Rz8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/3hWufJk7B9y635Rz8).
