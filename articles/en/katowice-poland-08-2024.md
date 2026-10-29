@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/katowice-poland-08-2024/1793218984626-0-cover.jpg
 ---
-The article describes a trip to Katowice in Poland in August 2024.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/w8JtVLJ1iknotAPr7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/w8JtVLJ1iknotAPr7).
