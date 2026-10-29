@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/dublin-ireland-03-2018/1793215717653-0-cover.jpg
 ---
-The article describes a trip to Dublin in Ireland in March 2018.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/bSmeDMueAB7mODPT2)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/bSmeDMueAB7mODPT2).
