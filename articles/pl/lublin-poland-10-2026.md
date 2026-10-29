@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/lublin-poland-10-2026/1793219469917-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Lublina w Polsce w październiku 2026.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/tpBzAuvftDcLuDJNA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/tpBzAuvftDcLuDJNA).
