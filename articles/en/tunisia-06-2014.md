@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/tunisia-06-2014/1793216165532-0-cover.jpg
 ---
-The article describes a trip to Tunisia in June 2014.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/kDwCoiWjbguZgNF56)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/kDwCoiWjbguZgNF56).
