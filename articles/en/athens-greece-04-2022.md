@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/athens-greece-04-2022/1793212733552-0-cover.jpg
 ---
-The article describes a trip to Athens in Greece in April 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/WgFvaXvk5nS6XtzBA)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/WgFvaXvk5nS6XtzBA).
