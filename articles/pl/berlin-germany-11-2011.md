@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/berlin-germany-11-2011/1793217796564-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Berlina w Niemczech w listopadzie 2011.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/jqwzA95Du1iTPySZ8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/jqwzA95Du1iTPySZ8).
