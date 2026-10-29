@@ -12,6 +12,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/balkans-10-2017/1793215795877-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę na Bałkany w październiku 2017.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/Mq5jMQ7mLRotqRmI3)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/Mq5jMQ7mLRotqRmI3).
