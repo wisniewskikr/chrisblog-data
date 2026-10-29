@@ -13,6 +13,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/russia-mongolia-and-china-07-2014/1793216141409-0-cover.jpg
 ---
-The article describes a trip to Russia, Mongolia and China by Trans-Siberian Railway in July 2014.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/9x4GAs44X5RHPh7u7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/9x4GAs44X5RHPh7u7).
