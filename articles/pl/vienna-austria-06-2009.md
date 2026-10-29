@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/vienna-austria-06-2009/1793218139040-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Wiednia w Austrii w czerwcu 2009.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/rC2MfziPbFCLke6E7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/rC2MfziPbFCLke6E7).
