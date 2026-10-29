@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/peja-kosovo-10-2022/1793218439191-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Peciu w Kosowie w październiku 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/H3v28qhQcxKNK1Ra8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/H3v28qhQcxKNK1Ra8).
