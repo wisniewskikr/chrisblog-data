@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/dniestr-river-ukraine-08-2009/1793218100150-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę nad rzekę Dniestr na Ukrainie w sierpniu 2009.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/gT5QumNMFuPYpLQ7A)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/gT5QumNMFuPYpLQ7A).
