@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/elblag-poland-04-2024/1793218698480-0-cover.jpg
 ---
-The article describes a trip to Elblag in Poland in April 2024.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/ANeTBNa3vQ3omeTH7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/ANeTBNa3vQ3omeTH7).
