@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/trogir-croatia-08-2022/1793217977260-0-cover.jpg
 ---
-The article describes a trip to Trogir in Croatia in August 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/MZF9B36B1yYLJ95h8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/MZF9B36B1yYLJ95h8).
