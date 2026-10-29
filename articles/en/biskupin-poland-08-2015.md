@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/biskupin-poland-08-2015/1793216033689-0-cover.jpg
 ---
-The article describes a trip to Biskupin in Poland in August 2015.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/c6ZkGMbsErfEvudcA)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/c6ZkGMbsErfEvudcA).
