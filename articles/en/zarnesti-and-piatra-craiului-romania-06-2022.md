@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zarnesti-and-piatra-craiului-romania-06-2022/1793215728387-0-cover.jpg
 ---
-The article describes a trip to Zarnesti and Piatra Craiului in Romania in June 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/iisGCduW2ZbxXLy96)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/iisGCduW2ZbxXLy96).
