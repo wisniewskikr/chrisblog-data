@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zurawiniec-poland-05-2014/1793216176822-0-cover.jpg
 ---
-The article describes a trip to Zurawiniec in Poland in May 2014.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/H5ESNstJ3rHPxxzH8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/H5ESNstJ3rHPxxzH8).
