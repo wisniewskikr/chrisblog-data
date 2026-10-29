@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/katowice-poland-11-2025/1793219231594-0-cover.jpg
 ---
-The article describes a trip to Katowice in Poland in November 2025.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/3dRbA3eZDb86pGsz5)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/3dRbA3eZDb86pGsz5).
