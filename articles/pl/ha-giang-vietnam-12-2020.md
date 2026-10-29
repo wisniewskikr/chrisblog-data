@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ha-giang-vietnam-12-2020/1793129283778-0-cover.jpg
 ---
-Artykuł opisuje 4-dniową wycieczkę motocyklową po dystrykcie Ha Giang w Wietnamie w grudniu 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/K9sfbd4jkJEQvzF29)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/K9sfbd4jkJEQvzF29).
