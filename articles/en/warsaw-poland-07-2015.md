@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/warsaw-poland-07-2015/1793216044929-0-cover.jpg
 ---
-The article describes a trip to Warsaw in Poland in July 2015.
+## Google Album
 
-[Photo album](https://goo.gl/photos/ZPWeutQLmHE6SjrL8)
+Pictures from this area you can find in my [Google Album](https://goo.gl/photos/ZPWeutQLmHE6SjrL8).
