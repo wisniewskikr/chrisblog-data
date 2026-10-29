@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bitola-north-macedonia-11-2022/1793218510540-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Bitoli w Macedonii Północnej w listopadzie 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/kKbrQ1ZKAFPVcWpX7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/kKbrQ1ZKAFPVcWpX7).
