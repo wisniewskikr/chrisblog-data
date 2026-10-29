@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/gliwice-poland-09-2025/1793219150010-0-cover.jpg
 ---
-The article describes a trip to Gliwice in Poland in September 2025.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/NuxBvDiR57irtXdu9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/NuxBvDiR57irtXdu9).
