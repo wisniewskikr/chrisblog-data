@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/katowice-poland-11-2025/1793219231594-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Katowic w Polsce w listopadzie 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/3dRbA3eZDb86pGsz5)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/3dRbA3eZDb86pGsz5).
