@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/jerusalem-israel-02-2022/1793212425770-0-cover.jpg
 ---
-The article describes a trip to Jerusalem in Israel in February 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/zADmqCwnP9aks97r7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/zADmqCwnP9aks97r7).
