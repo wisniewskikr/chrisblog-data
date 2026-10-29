@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/butrint-albania-11-2022/1793218577455-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Butrintu w Albanii w listopadzie 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/N2rGMBDxqKDcb4SU9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/N2rGMBDxqKDcb4SU9).
