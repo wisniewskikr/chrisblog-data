@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/sibiu-romania-06-2022/1793215703835-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Sibiu w Rumunii w czerwcu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/kXDaU5ZiMbgkkt747)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/kXDaU5ZiMbgkkt747).
