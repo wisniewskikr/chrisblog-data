@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/katowice-poland-08-2024/1793218984626-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Katowic w Polsce w sierpniu 2024.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/w8JtVLJ1iknotAPr7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/w8JtVLJ1iknotAPr7).
