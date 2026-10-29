@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kielce-poland-09-2024/1793219060746-0-cover.jpg
 ---
-The article describes a trip to Kielce in Poland in September 2024.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/6LGz5y9H93WQEAYd8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/6LGz5y9H93WQEAYd8).
