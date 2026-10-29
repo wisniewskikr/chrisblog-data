@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/warsaw-poland-07-2015/1793216044929-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Warszawy w Polsce w lipcu 2015.
+## Album Google
 
-[Album ze zdjęciami](https://goo.gl/photos/ZPWeutQLmHE6SjrL8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://goo.gl/photos/ZPWeutQLmHE6SjrL8).
