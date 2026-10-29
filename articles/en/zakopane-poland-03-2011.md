@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zakopane-poland-03-2011/1793217765272-0-cover.jpg
 ---
-The article describes a trip to Zakopane in Poland in March 2011.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/jztHX8WMRq9z4X1RA)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/jztHX8WMRq9z4X1RA).
