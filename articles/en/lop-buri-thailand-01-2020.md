@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/lop-buri-thailand-01-2020/1793214109067-0-cover.jpg
 ---
-The article describes a trip to Lop Buri in Thailand in January 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/ha9P7Kxo32gaBBNQ8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/ha9P7Kxo32gaBBNQ8).
