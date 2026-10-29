@@ -12,6 +12,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/scandinavia-09-2015/1793216022755-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Skandynawii we wrześniu 2015.
+## Album Google
 
-[Album ze zdjęciami](https://goo.gl/photos/3Hz4fjdE9XBEntzLA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://goo.gl/photos/3Hz4fjdE9XBEntzLA).
