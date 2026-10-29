@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/pszczyna-poland-11-2025/1793219259206-0-cover.jpg
 ---
-The article describes a trip to Pszczyna in Poland in November 2025.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/AicX8Q61RPAym8J78)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/AicX8Q61RPAym8J78).
