@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/balatonfured-hungary-07-2024/1793218765035-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Balatonfüred na Węgrzech w lipcu 2024.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/zuaFonujQU25Lt6g6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/zuaFonujQU25Lt6g6).
