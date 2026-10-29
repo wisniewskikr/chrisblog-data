@@ -10,8 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/izmir-turkey-02-2022/1793210874797-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Izmiru w Turcji w lutym 2022 roku.
+## Album Google
 
-Zdjęcia z wyjazdu są w albumie Google:
-
-[Album ze zdjęciami](https://photos.app.goo.gl/JCoSpFHiC2HN9dhk9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/JCoSpFHiC2HN9dhk9).
