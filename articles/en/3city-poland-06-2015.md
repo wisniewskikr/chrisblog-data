@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/3city-poland-06-2015/1793216066359-0-cover.jpg
 ---
-The article describes a trip to 3City in Poland in June 2015.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/griSYArLKqRgn8ww9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/griSYArLKqRgn8ww9).
