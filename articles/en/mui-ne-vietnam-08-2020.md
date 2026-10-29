@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/mui-ne-vietnam-08-2020/1793213706980-0-cover.jpg
 ---
-The article describes a trip to Mui Ne in Vietnam in August 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/sHLzvM1Q9G5aEd9L6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/sHLzvM1Q9G5aEd9L6).
