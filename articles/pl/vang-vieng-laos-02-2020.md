@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/vang-vieng-laos-02-2020/1793213886752-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Vang Vieng w Laosie w lutym 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/92yYUXniDmfmLhbv6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/92yYUXniDmfmLhbv6).
