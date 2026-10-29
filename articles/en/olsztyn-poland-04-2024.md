@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/olsztyn-poland-04-2024/1793218973451-0-cover.jpg
 ---
-The article describes a trip to Olsztyn in Poland in April 2024.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/6oxjEighgQzkHuYR9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/6oxjEighgQzkHuYR9).
