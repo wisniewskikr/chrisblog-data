@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/skopje-north-macedonia-11-2022/1793218452564-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Skopje w Macedonii Północnej w listopadzie 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/T5eFis8dWK9YgYME8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/T5eFis8dWK9YgYME8).
