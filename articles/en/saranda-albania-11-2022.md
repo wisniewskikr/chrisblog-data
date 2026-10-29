@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/saranda-albania-11-2022/1793218591416-0-cover.jpg
 ---
-The article describes a trip to Saranda in Albania in November 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/nuEjfYsXGM2ZJAa5A)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/nuEjfYsXGM2ZJAa5A).
