@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/saranda-albania-11-2022/1793218591416-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Sarandy w Albanii w listopadzie 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/nuEjfYsXGM2ZJAa5A)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/nuEjfYsXGM2ZJAa5A).
