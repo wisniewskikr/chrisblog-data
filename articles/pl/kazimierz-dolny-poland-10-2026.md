@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kazimierz-dolny-poland-10-2026/1793219494673-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Kazimierza Dolnego w Polsce w październiku 2026.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/L5RuimmfKHJSyw4j9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/L5RuimmfKHJSyw4j9).
