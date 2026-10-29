@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zurawiniec-poland-05-2014/1793216176822-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Żurawińca w Polsce w maju 2014.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/H5ESNstJ3rHPxxzH8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/H5ESNstJ3rHPxxzH8).
