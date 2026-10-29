@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/milan-italy-12-2025/1793219394158-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Mediolanu we Włoszech w grudniu 2025.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/UjMzBiGNLKBsnVzb9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/UjMzBiGNLKBsnVzb9).
