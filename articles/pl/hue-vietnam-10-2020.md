@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/hue-vietnam-10-2020/1793213611585-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Hue w Wietnamie w październiku 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/Ma98mdMDrQFzqRMu5)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/Ma98mdMDrQFzqRMu5).
