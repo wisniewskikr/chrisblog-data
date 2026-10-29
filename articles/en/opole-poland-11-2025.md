@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/opole-poland-11-2025/1793219247529-0-cover.jpg
 ---
-The article describes a trip to Opole in Poland in November 2025.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/LbLQFc8B9njCjE8DA)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/LbLQFc8B9njCjE8DA).
