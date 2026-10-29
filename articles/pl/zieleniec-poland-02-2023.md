@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zieleniec-poland-02-2023/1793218603857-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Zieleńca w Polsce w lutym 2023.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/efQyq5go5gokppwZ9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/efQyq5go5gokppwZ9).
