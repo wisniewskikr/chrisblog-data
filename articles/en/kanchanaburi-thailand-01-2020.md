@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kanchanaburi-thailand-01-2020/1793214025700-0-cover.jpg
 ---
-The article describes a trip to Kanchanaburi in Thailand in January 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/UZ8jP4dX1WiG2awSA)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/UZ8jP4dX1WiG2awSA).
