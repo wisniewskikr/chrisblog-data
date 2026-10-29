@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/durres-albania-11-2022/1793218538321-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Durrës w Albanii w listopadzie 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/aALRtkEGAjN2SpQP8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/aALRtkEGAjN2SpQP8).
