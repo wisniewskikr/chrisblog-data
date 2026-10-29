@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/yerevan-armenia-10-2021/1793212399051-0-cover.jpg
 ---
-The article describes a trip to Yerevan in Armenia in October 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/F83odEyByo6rPGrt9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/F83odEyByo6rPGrt9).
