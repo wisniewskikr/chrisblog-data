@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/drawno-poland-06-2021/1793215836539-0-cover.jpg
 ---
-The article describes a trip to Drawno in Poland in June 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/72SLQQscwHbCFLzbA)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/72SLQQscwHbCFLzbA).
