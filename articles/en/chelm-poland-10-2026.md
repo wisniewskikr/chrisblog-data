@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/chelm-poland-10-2026/1793219531408-0-cover.jpg
 ---
-The article describes a trip to Chelm in Poland in October 2026.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/wLuK81V8AjKe7qTx8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/wLuK81V8AjKe7qTx8).
