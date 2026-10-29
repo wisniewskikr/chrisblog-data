@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zielona-gora-poland-10-2014/1793216115555-0-cover.jpg
 ---
-The article describes a trip to Zielona Gora in Poland in October 2014.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/FfZveXbubGEjRakm6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/FfZveXbubGEjRakm6).
