@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/opole-poland-08-2024/1793219010247-0-cover.jpg
 ---
-The article describes a trip to Opole in Poland in August 2024.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/ZQbK6DTRG1tDr8tf7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/ZQbK6DTRG1tDr8tf7).
