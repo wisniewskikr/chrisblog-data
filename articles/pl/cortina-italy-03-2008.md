@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/cortina-italy-03-2008/1793218162243-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Cortiny we Włoszech w marcu 2008.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/h4diDAjtuydeQVRk9)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/h4diDAjtuydeQVRk9).
