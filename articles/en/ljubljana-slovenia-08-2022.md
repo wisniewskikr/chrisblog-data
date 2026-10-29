@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/ljubljana-slovenia-08-2022/1793217559854-0-cover.jpg
 ---
-The article describes a trip to Ljubljana in Slovenia in August 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/fcDmL2MESgfmCeA47)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/fcDmL2MESgfmCeA47).
