@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/gobustan-and-absheron-azerbaijan-09-2021/1793212479403-0-cover.jpg
 ---
-The article describes a trip to Gobustan and Absheron in Azerbaijan in September 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/v2xpfg1Z6DtxrvgK8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/v2xpfg1Z6DtxrvgK8).
