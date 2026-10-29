@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/vardzia-georgia-08-2021/1793212589286-0-cover.jpg
 ---
-The article describes a trip to Vardzia in Georgia in August 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/5amxSFXj4WyEPXvw7)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/5amxSFXj4WyEPXvw7).
