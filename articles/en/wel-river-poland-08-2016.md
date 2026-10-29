@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/wel-river-poland-08-2016/1793215889678-0-cover.jpg
 ---
-The article describes a trip to Wel River in Poland in August 2016.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/nWvrkZzokQdpZ1QM9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/nWvrkZzokQdpZ1QM9).
