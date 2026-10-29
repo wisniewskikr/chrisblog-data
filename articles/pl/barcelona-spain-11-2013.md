@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/barcelona-spain-11-2013/1793217482987-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Barcelony w Hiszpanii w listopadzie 2013.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/N3uR3jj3TJDBpnn78)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/N3uR3jj3TJDBpnn78).
