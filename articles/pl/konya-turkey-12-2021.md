@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/konya-turkey-12-2021/1793211574666-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Konyi w Turcji w grudniu 2021.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/MxZjH3dMS7FnpTy76)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/MxZjH3dMS7FnpTy76).
