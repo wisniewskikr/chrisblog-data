@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/pompeii-and-herculaneum-italy-11-2025/1793218903394-0-cover.jpg
 ---
-The article describes a trip to Pompeii and Herculaneum in Italy in November 2025.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/RtPQRUXdsgX5pFac8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/RtPQRUXdsgX5pFac8).
