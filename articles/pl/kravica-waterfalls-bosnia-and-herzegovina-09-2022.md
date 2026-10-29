@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/kravica-waterfalls-bosnia-and-herzegovina-09-2022/1793218126471-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do wodospadów Kravica w Bośni i Hercegowinie we wrześniu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/VzizcgAYkBjg7xKf7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/VzizcgAYkBjg7xKf7).
