@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/zlatibor-serbia-10-2022/1793218253440-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę na Zlatibor w Serbii w październiku 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/MKLtPe8rPwwAKmpZ7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/MKLtPe8rPwwAKmpZ7).
