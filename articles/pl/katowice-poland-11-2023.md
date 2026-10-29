@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/katowice-poland-11-2023/1793218616093-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Katowic w Polsce w listopadzie 2023.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/cTiAi9TH61HL91x3A)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/cTiAi9TH61HL91x3A).
