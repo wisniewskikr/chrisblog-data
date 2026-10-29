@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/varna-bulgaria-05-2022/1793213956127-0-cover.jpg
 ---
-The article describes a trip to Varna in Bulgaria in May 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/5G72NWbQnMkzFKBKA)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/5G72NWbQnMkzFKBKA).
