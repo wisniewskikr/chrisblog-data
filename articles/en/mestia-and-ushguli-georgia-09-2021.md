@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/mestia-and-ushguli-georgia-09-2021/1793212551514-0-cover.jpg
 ---
-The article describes a trip to Mestia and Ushguli in Georgia in September 2021.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/N7d3u4xT9SHLTmdv6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/N7d3u4xT9SHLTmdv6).
