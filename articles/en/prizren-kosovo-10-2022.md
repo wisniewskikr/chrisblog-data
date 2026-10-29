@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/prizren-kosovo-10-2022/1793218424790-0-cover.jpg
 ---
-The article describes a trip to Prizren in Kosovo in October 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/9pD7So12xQysQmjb6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/9pD7So12xQysQmjb6).
