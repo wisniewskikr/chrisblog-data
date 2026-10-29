@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/sibenik-croatia-08-2022/1793217964535-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Szybenika w Chorwacji w sierpniu 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/wWGGJYqL3yayiycd7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/wWGGJYqL3yayiycd7).
