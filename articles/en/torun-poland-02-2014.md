@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/torun-poland-02-2014/1793216212183-0-cover.jpg
 ---
-The article describes a trip to Torun in Poland in February 2014.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/uzVbetVoi1fXuRpX9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/uzVbetVoi1fXuRpX9).
