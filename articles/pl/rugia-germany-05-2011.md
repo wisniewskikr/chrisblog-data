@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/rugia-germany-05-2011/1793217754446-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę na Rugię w Niemczech w maju 2011.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/ngbywNQEDey3ENe26)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/ngbywNQEDey3ENe26).
