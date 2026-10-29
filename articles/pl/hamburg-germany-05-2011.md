@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/hamburg-germany-05-2011/1793217847164-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Hamburga w Niemczech w maju 2011.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/3yNoF1VSQSftVNdQ7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/3yNoF1VSQSftVNdQ7).
