@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/varna-bulgaria-05-2022/1793213956127-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Warny w Bułgarii w maju 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/5G72NWbQnMkzFKBKA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/5G72NWbQnMkzFKBKA).
