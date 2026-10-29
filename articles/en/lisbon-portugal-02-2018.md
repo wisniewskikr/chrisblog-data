@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/lisbon-portugal-02-2018/1793215742839-0-cover.jpg
 ---
-The article describes a trip to Lisbon in Portugal in February 2018.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/yx5w8zdDlqTDMiDh2)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/yx5w8zdDlqTDMiDh2).
