@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/sukhothai-thailand-01-2020/1793214095909-0-cover.jpg
 ---
-The article describes a trip to Sukhothai in Thailand in January 2020.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/R9rQ4CMG3meq81xV6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/R9rQ4CMG3meq81xV6).
