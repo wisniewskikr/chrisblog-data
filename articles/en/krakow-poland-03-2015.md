@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/krakow-poland-03-2015/1793216077605-0-cover.jpg
 ---
-The article describes a trip to Krakow in Poland in May 2015.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/zrjnayX7HAzji1GD9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/zrjnayX7HAzji1GD9).
