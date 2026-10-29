@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/bukowel-ukraine-02-2013/1793217703104-0-cover.jpg
 ---
-The article describes a trip to Bukowel in Ukraine in February 2013.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/z8i9mG3NFiXUzcA27)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/z8i9mG3NFiXUzcA27).
