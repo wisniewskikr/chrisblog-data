@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/elblag-poland-04-2024/1793218698480-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Elbląga w Polsce w kwietniu 2024.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/ANeTBNa3vQ3omeTH7)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/ANeTBNa3vQ3omeTH7).
