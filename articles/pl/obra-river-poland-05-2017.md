@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/obra-river-poland-05-2017/1793215847097-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę nad rzekę Obrę w Polsce w maju 2017.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/1BSJCTAjmf4dFy66A)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/1BSJCTAjmf4dFy66A).
