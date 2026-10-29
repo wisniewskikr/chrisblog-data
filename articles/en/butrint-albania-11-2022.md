@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/butrint-albania-11-2022/1793218577455-0-cover.jpg
 ---
-The article describes a trip to Butrint in Albania in November 2022.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/N2rGMBDxqKDcb4SU9)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/N2rGMBDxqKDcb4SU9).
