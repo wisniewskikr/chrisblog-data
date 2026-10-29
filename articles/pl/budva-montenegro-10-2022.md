@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/budva-montenegro-10-2022/1793218385943-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Budvy w Czarnogórze w październiku 2022.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/KVRYtBJqmnHAdrsy5)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/KVRYtBJqmnHAdrsy5).
