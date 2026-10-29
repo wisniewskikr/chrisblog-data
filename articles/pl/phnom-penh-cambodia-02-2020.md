@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/phnom-penh-cambodia-02-2020/1793213916484-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Phnom Penh w Kambodży w lutym 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/JbZ891Gw41yyWTETA)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/JbZ891Gw41yyWTETA).
