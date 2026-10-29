@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/stambul-turkey-11-2021/1793212323572-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Stambułu w Turcji w listopadzie 2021.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/hRSN7kfmHT1idxwM6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/hRSN7kfmHT1idxwM6).
