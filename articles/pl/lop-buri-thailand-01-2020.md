@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/lop-buri-thailand-01-2020/1793214109067-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Lop Buri w Tajlandii w styczniu 2020.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/ha9P7Kxo32gaBBNQ8)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/ha9P7Kxo32gaBBNQ8).
