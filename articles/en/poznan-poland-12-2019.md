@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/poznan-poland-12-2019/1793217914670-0-cover.jpg
 ---
-The article describes a trip to Poznan in Poland in December 2019.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/ttrpfjya5yCxk4km6)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/ttrpfjya5yCxk4km6).
