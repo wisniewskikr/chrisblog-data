@@ -10,6 +10,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/jarocin-poland-07-2013/1793217641183-0-cover.jpg
 ---
-Artykuł opisuje wycieczkę do Jarocina w Polsce w lipcu 2013.
+## Album Google
 
-[Album ze zdjęciami](https://photos.app.goo.gl/QA8oKPvRdKYWeSAG6)
+Zdjęcia z tej okolicy znajdziesz w moim [Albumie Google](https://photos.app.goo.gl/QA8oKPvRdKYWeSAG6).
