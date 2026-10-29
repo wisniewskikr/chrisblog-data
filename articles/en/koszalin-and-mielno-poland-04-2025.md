@@ -11,6 +11,6 @@ tags:
 status: PUBLISHED
 imageUrl: articles/images/koszalin-and-mielno-poland-04-2025/1793218836979-0-cover.jpg
 ---
-The article describes a trip to Koszalin and Mielno in Poland in April 2025.
+## Google Album
 
-[Photo album](https://photos.app.goo.gl/WoUawjZrF4q8mGCe8)
+Pictures from this area you can find in my [Google Album](https://photos.app.goo.gl/WoUawjZrF4q8mGCe8).
