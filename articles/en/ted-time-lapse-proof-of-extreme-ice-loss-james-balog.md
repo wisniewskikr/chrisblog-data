@@ -3,7 +3,7 @@ title: TED - Time-lapse proof of extreme ice loss; James Balog
 description: Photographer James Balog shares new image sequences from the Extreme
   Ice Survey, a network of time-lapse cameras recording glaciers receding at an alarming
   rate, some of the most vivid evidence yet of climate change.
-rating: 5
+rating: 3
 author: Chris
 date: '2024-05-06'
 category: movies
