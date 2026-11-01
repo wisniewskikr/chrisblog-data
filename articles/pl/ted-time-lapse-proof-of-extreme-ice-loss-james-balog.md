@@ -3,7 +3,7 @@ title: TED - Poklatkowy dowód na ekstremalny ubytek lodu; James Balog
 description: Fotograf James Balog prezentuje nowe sekwencje zdjęć z projektu Extreme
   Ice Survey — sieci kamer poklatkowych rejestrujących zanikanie lodowców w alarmującym
   tempie. To jedne z najbardziej przekonujących dotąd dowodów na zmiany klimatyczne.
-rating: 5
+rating: 3
 author: Chris
 date: '2024-05-06'
 category: movies
