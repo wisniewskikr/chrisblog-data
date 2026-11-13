@@ -10,7 +10,6 @@ date: '2021-08-01'
 category: books
 tags:
 - Self-help / how-to guides
-- Other
 status: PUBLISHED
 imageUrl: articles/images/how-to-save-the-world-what-good-can-you-do-for-the-planet-areta-szpura/1794491137747-0-book-cover.jpg
 ---
