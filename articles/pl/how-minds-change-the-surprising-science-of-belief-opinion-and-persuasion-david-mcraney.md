@@ -2,7 +2,7 @@
 title: Nawyki myślenia. Zaskakująca wiedza naukowa o opiniach, przekonaniach i perswazji
   – David McRaney
 description: |-
-  CO SPRAWIA, ŻE ROZSĄDNI I INTELIGENTNI LUDZIE WIERZĄ, IŻ ZIEMIA JEST PŁASKA? I DLACZEGO NIEKTÓRZY NIGDY NIE ZMIENIAJĄ SWOICH PRZEKONAŃ?
+  Co sprawia, że rozsądni i inteligentni ludzie wierzą, iż Ziemia jest płaska? I dlaczego niektórzy nigdy nie zmieniają swoich przekonań?
 
   Oto fascynujący przewodnik po współczesnej wiedzy neurobiologicznej i psychologicznej o formowaniu i aktualizowaniu opinii.
 
