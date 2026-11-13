@@ -11,7 +11,6 @@ date: '2026-07-02'
 category: books
 tags:
 - Religion
-- Other
 status: PUBLISHED
 imageUrl: articles/images/return-to-simplicity-how-to-calm-the-spirit-in-a-busy-world-maximilien-le-febure-du-bus/1794311943167-0-book-cover.jpg
 ---
