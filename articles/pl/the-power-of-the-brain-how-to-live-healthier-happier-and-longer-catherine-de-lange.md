@@ -12,7 +12,6 @@ date: '2024-11-14'
 category: books
 tags:
 - Poradniki
-- Pozostałe
 status: PUBLISHED
 imageUrl: articles/images/the-power-of-the-brain-how-to-live-healthier-happier-and-longer-catherine-de-lange/1794497428829-0-book-cover.jpg
 ---
