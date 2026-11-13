@@ -10,7 +10,6 @@ date: '2022-05-27'
 category: books
 tags:
 - Self-help / how-to guides
-- Other
 status: PUBLISHED
 imageUrl: articles/images/supercharge-your-brain-james-goodwin/1794319942470-0-book-cover.jpg
 ---
