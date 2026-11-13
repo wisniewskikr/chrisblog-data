@@ -12,7 +12,6 @@ date: '2026-07-31'
 category: books
 tags:
 - Poradniki
-- Pozostałe
 status: PUBLISHED
 imageUrl: articles/images/atomic-habits-james-clear/1794314813578-0-book-cover.jpg
 ---
