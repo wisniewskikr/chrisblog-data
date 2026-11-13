@@ -15,7 +15,6 @@ date: '2024-11-22'
 category: books
 tags:
 - Self-help / how-to guides
-- Other
 status: PUBLISHED
 imageUrl: articles/images/sexual-intelligence-what-we-really-want-from-sex-and-how-to-get-it-marty-klein/1794328895807-0-book-cover.jpg
 ---
