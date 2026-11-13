@@ -13,7 +13,6 @@ date: '2021-12-05'
 category: books
 tags:
 - Self-help / how-to guides
-- Other
 status: PUBLISHED
 imageUrl: articles/images/marriage-for-the-advanced-or-everything-we-would-like-and-should-know-to-enjoy-a-successful-relationship-judith-viorst/1794496728498-0-book-cover.jpg
 ---
