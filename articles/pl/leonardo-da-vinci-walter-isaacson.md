@@ -1,6 +1,6 @@
 ---
 title: Leonardo da Vinci – Walter Isaacson
-description: 'Autor takich uznanych bestsellerów jak Steve Jobs, Einstein, Bejnamin
+description: 'Autor takich uznanych bestsellerów jak Steve Jobs, Einstein, Benjamin
   Franklin oraz Innowatorzy przedstawia swoją nową książkę – pasjonującą biografię
   Leonarda da Vinci. Odwołując się do liczących tysiące stron notatek Leonarda, a
   także do najnowszych odkryć związanych z życiem i dorobkiem geniusza, Walter Isaacson
