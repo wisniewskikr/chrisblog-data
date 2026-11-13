@@ -15,7 +15,6 @@ date: '2024-10-25'
 category: books
 tags:
 - Self-help / how-to guides
-- Other
 status: PUBLISHED
 imageUrl: articles/images/us-getting-past-you-and-me-to-build-a-more-loving-relationship-terrence-real/1794497809361-0-book-cover.jpg
 ---
