@@ -16,7 +16,6 @@ date: '2024-10-30'
 category: books
 tags:
 - Poradniki
-- Pozostałe
 status: PUBLISHED
 imageUrl: articles/images/the-greatness-guide-101-lessons-for-making-what-s-good-at-work-and-in-life-even-better-robin-sharma/1794320201537-0-book-cover.jpg
 ---
