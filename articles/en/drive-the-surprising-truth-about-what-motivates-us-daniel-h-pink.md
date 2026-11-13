@@ -9,7 +9,6 @@ date: '2021-04-27'
 category: books
 tags:
 - Self-help / how-to guides
-- Other
 status: PUBLISHED
 imageUrl: articles/images/drive-the-surprising-truth-about-what-motivates-us-daniel-h-pink/1794320103221-0-book-cover.jpg
 ---
