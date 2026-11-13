@@ -12,7 +12,6 @@ date: '2023-10-08'
 category: books
 tags:
 - Self-help / how-to guides
-- Other
 status: PUBLISHED
 imageUrl: articles/images/how-to-be-perfect-the-correct-answer-to-every-moral-question-michael-schur/1794329125687-0-book-cover.jpg
 ---
