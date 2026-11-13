@@ -13,7 +13,6 @@ date: '2026-07-18'
 category: books
 tags:
 - Self-help / how-to guides
-- Other
 status: PUBLISHED
 imageUrl: articles/images/rich-habits-poor-habits-tom-corley-michael-yardney/1794315417420-0-book-cover.jpg
 ---
