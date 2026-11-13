@@ -13,7 +13,6 @@ date: '2026-07-10'
 category: books
 tags:
 - Poradniki
-- Pozostałe
 status: PUBLISHED
 imageUrl: articles/images/jak-zyc-aby-nie-zalowac-pozytywnosc-na-codzien-alina-adamowicz-karolina-nowakowska/1794252493539-0-book-cover.jpg
 ---
