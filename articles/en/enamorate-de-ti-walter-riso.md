@@ -1,5 +1,5 @@
 ---
-title: Enamorate de ti – Walter Riso
+title: Fall in Love with Yourself – Walter Riso
 description: |-
   Do you often feel that others handle daily life better than you? Do you find it easy to list your flaws, but struggle to name your strengths?
 
