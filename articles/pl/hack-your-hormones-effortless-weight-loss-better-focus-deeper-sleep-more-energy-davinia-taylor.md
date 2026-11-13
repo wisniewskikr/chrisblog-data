@@ -10,7 +10,6 @@ date: '2025-08-08'
 category: books
 tags:
 - Poradniki
-- Pozostałe
 status: PUBLISHED
 imageUrl: articles/images/hack-your-hormones-effortless-weight-loss-better-focus-deeper-sleep-more-energy-davinia-taylor/1794323953016-0-book-cover.jpg
 ---
