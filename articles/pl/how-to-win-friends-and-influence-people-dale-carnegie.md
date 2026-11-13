@@ -11,7 +11,6 @@ date: '2026-03-14'
 category: books
 tags:
 - Poradniki
-- Pozostałe
 status: PUBLISHED
 imageUrl: articles/images/how-to-win-friends-and-influence-people-dale-carnegie/1794314946795-0-book-cover.jpg
 ---
