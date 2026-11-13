@@ -11,7 +11,6 @@ date: '2024-09-13'
 category: books
 tags:
 - Poradniki
-- Pozostałe
 status: PUBLISHED
 imageUrl: articles/images/becoming-a-changemaker-an-actionable-inclusive-guide-to-leading-positive-change-at-any-level-alex-budak/1794315113306-0-book-cover.jpg
 ---
