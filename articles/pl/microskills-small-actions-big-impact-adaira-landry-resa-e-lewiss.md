@@ -11,7 +11,6 @@ date: '2025-08-03'
 category: books
 tags:
 - Poradniki
-- Pozostałe
 status: PUBLISHED
 imageUrl: articles/images/microskills-small-actions-big-impact-adaira-landry-resa-e-lewiss/1794497081626-0-book-cover.jpg
 ---
