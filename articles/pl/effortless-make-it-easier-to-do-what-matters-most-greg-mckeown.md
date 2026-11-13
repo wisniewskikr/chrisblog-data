@@ -14,7 +14,6 @@ date: '2026-04-24'
 category: books
 tags:
 - Poradniki
-- Pozostałe
 status: PUBLISHED
 imageUrl: articles/images/effortless-make-it-easier-to-do-what-matters-most-greg-mckeown/1794496947113-0-book-cover.jpg
 ---
