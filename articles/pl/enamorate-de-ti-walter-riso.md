@@ -10,7 +10,6 @@ date: '2024-06-14'
 category: books
 tags:
 - Poradniki
-- Pozostałe
 status: PUBLISHED
 imageUrl: articles/images/enamorate-de-ti-walter-riso/1794497171259-0-book-cover.jpg
 ---
