@@ -12,7 +12,6 @@ date: '2022-09-25'
 category: books
 tags:
 - Self-help / how-to guides
-- Other
 status: PUBLISHED
 imageUrl: articles/images/happier-no-matter-what-tal-ben-shahar/1794329287116-0-book-cover.jpg
 ---
