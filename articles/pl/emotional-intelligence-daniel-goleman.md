@@ -10,7 +10,6 @@ date: '2021-05-27'
 category: books
 tags:
 - Poradniki
-- Pozostałe
 status: PUBLISHED
 imageUrl: articles/images/emotional-intelligence-daniel-goleman/1794328762155-0-book-cover.jpg
 ---
