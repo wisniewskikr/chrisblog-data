@@ -12,7 +12,6 @@ date: '2026-09-18'
 category: books
 tags:
 - Poradniki
-- Pozostałe
 status: PUBLISHED
 imageUrl: articles/images/the-charge-activating-the-10-human-drives-that-make-you-feel-alive-brendon-burchard/1794320861000-0-book-cover.jpg
 ---
