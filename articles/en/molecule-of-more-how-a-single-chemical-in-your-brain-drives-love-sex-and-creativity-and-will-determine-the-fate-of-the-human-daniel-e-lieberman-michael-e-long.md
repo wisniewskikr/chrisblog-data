@@ -1,7 +1,7 @@
 ---
 title: Molecule of More. How a Single Chemical in Your Brain Drives Love, Sex, and
-  Creativity–and Will Determine the Fate of the Human – Daniel E. Lieberman, Michael
-  E. Long
+  Creativity–and Will Determine the Fate of the Human Race – Daniel E. Lieberman,
+  Michael E. Long
 description: |-
   Electrifying discoveries about a single chemical molecule in the brain that drives us to achieve the unattainable and distant – whether it concerns a flight to the Moon, a salt shaker on the other side of the table, or drawing closer to the absolute. This molecule compels us to pursue ever new goals. It is the source of creativity, and if we go too far – of madness.
   LOVE: You've found the person you always waited for, so why doesn't the honeymoon last forever?
