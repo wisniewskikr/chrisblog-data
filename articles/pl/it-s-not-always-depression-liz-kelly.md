@@ -10,7 +10,6 @@ date: '2025-09-01'
 category: books
 tags:
 - Poradniki
-- Pozostałe
 status: PUBLISHED
 imageUrl: articles/images/it-s-not-always-depression-liz-kelly/1794491635627-0-book-cover.jpg
 ---
