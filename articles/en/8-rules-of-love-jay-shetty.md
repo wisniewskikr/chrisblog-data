@@ -12,7 +12,6 @@ date: '2024-02-12'
 category: books
 tags:
 - Self-help / how-to guides
-- Other
 status: PUBLISHED
 imageUrl: articles/images/8-rules-of-love-jay-shetty/1794252385819-0-book-cover.jpg
 ---
