@@ -1,6 +1,6 @@
 ---
 title: My. Jak zbudować dobry związek, doświadczyć prawdziwej bliskości i zmienić
-  "ty" i "ja" w "my" – Terrence Real
+  „ty” i „ja” w „my” – Terrence Real
 description: |-
   Zacznij pracę nad swoim związkiem z pomocą doświadczonego terapeuty rodzin.
 
