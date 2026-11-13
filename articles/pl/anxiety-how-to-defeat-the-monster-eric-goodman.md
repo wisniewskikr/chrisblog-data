@@ -10,7 +10,6 @@ date: '2024-07-28'
 category: books
 tags:
 - Poradniki
-- Pozostałe
 status: PUBLISHED
 imageUrl: articles/images/anxiety-how-to-defeat-the-monster-eric-goodman/1794496135647-0-book-cover.jpg
 ---
