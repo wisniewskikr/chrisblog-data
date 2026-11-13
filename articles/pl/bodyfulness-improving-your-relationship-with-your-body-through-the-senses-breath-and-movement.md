@@ -11,7 +11,6 @@ date: '2023-07-08'
 category: books
 tags:
 - Poradniki
-- Pozostałe
 status: PUBLISHED
 imageUrl: articles/images/bodyfulness-improving-your-relationship-with-your-body-through-the-senses-breath-and-movement/1794311624833-0-book-cover.jpg
 ---
