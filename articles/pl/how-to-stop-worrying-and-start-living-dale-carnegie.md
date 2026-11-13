@@ -10,7 +10,6 @@ date: '2021-06-21'
 category: books
 tags:
 - Poradniki
-- Pozostałe
 status: PUBLISHED
 imageUrl: articles/images/how-to-stop-worrying-and-start-living-dale-carnegie/1794490984335-0-book-cover.jpg
 ---
