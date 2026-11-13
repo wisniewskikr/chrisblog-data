@@ -1,7 +1,7 @@
 ---
 title: Książka tylko dla mężczyzn – Ewa Kempisty-Jeznach
 description: |-
-  Prawdziwy mężczyzna to gatunek zagrożony wyginięciem. Tak książka to wołanie o ratunek dla panów.
+  Prawdziwy mężczyzna to gatunek zagrożony wyginięciem. Ta książka to wołanie o ratunek dla panów.
 
   Współcześni mężczyźni coraz mniej odpowiadają wizerunkowi kulturowemu, który każe im być ostoją kobiety, symbolem bezpieczeństwa i walki o przetrwanie. Panowie bywają dziś często słabi, zmęczeni, przepracowani, z obniżonymi potrzebami seksualnymi.
   Coraz trudniej doszukać się w nich cech, które odróżniają samca od samicy. Świat zaczynają również zaludniać metroseksualni osobnicy, będący w zasadzie mężczyznami, jednak znacznie bardziej przypominający pozbawione płci istoty.
