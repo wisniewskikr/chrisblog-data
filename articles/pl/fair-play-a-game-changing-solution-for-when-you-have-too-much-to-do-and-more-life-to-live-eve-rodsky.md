@@ -14,7 +14,6 @@ date: '2026-10-01'
 category: books
 tags:
 - Poradniki
-- Pozostałe
 status: PUBLISHED
 imageUrl: articles/images/fair-play-a-game-changing-solution-for-when-you-have-too-much-to-do-and-more-life-to-live-eve-rodsky/1794321057433-0-book-cover.jpg
 ---
