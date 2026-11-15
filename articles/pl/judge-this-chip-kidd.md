@@ -9,7 +9,6 @@ author: Chris
 date: '2021-12-17'
 category: books
 tags:
-- Pozostałe
 - Literatura dziecięca
 status: PUBLISHED
 imageUrl: articles/images/judge-this-chip-kidd/1794594347586-0-book-cover.jpg
